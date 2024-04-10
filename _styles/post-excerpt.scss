@@ -10,10 +10,13 @@ $wrap: 800px;
 
 .post-excerpt {
   display: flex;
+  flex-wrap: wrap;
   margin: 20px 0;
+  padding: 20px 30px;
   border-radius: var(--rounded);
   background: var(--background);
   overflow: hidden;
+  text-align: left;
   box-shadow: var(--shadow);
 }
 

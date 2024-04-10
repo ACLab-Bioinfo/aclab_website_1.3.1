@@ -3,39 +3,39 @@
 
 // colors
 [data-dark="false"] {
-  --primary: #0795d9;
-  --secondary: #7dd3fc;
-  --text: #000000;
-  --background: #ffffff;
+  --primary: #7B3E8C;
+  --secondary: #F2CB05;
+  --text: #0D0D0D;
+  --background: #F2F2F2;
   --background-alt: #fafafa;
   --light-gray: #e0e0e0;
   --gray: #808080;
-  --dark-gray: #404040;
-  --overlay: #00000020;
+  --overlay: #00000000;
 }
 [data-dark="true"] {
-  --primary: #0795d9;
+  --primary: #0ea5e9;
   --secondary: #075985;
   --text: #ffffff;
   --background: #181818;
   --background-alt: #1c1c1c;
   --light-gray: #404040;
   --gray: #808080;
-  --dark-gray: #b0b0b0;
   --overlay: #ffffff10;
 }
 
+
 :root {
   // font families
-  --title: "Barlow", sans-serif;
-  --heading: "Barlow", sans-serif;
-  --body: "Barlow", sans-serif;
+  --title: "Acme", sans-serif;
+  --heading: "Lato", sans-serif;
+  --body: "Lato", sans-serif;
   --code: "Roboto Mono", monospace;
 
   // font sizes
-  --large: 1.2rem;
-  --xl: 1.4rem;
-  --xxl: 1.6rem;
+  --large: 1.5rem;
+  --medium: 1.3rem;
+  --xl: 1.7rem;
+  --xxl: 1.9rem;
 
   // font weights
   --thin: 200;
@@ -44,7 +44,7 @@
   --bold: 600;
 
   // text line spacing
-  --spacing: 2;
+  --spacing: 1.7;
   --compact: 1.5;
 
   // effects

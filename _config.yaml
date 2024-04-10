@@ -1,19 +1,16 @@
 # site properties and page defaults
-title: ACLab-BioinfoDESCRIPTION=An engaging 1-3 sentence description of your lab.
-subtitle: 
-description: 
-header: images/background.jpg
-footer: images/background.jpg
+title: CHENG Laboratory
+subtitle: Epigenetics and Therapeutics in Immuno-Oncology
+description: CHENG Laboratory of Epigenetics and Therapeutics in Immuno-Oncology, School of Biomedical Sciences, The Chinese University of Hong Kong
+header: images/chromatin_structure.svg
+footer: https://user-images.githubusercontent.com/81615397/276866026-7dcce096-6617-4288-abad-2a0d7c7d7363.png
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@ACLab-BioinfoDESCRIPTION=An engaging 1-3 sentence description of your lab..com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: ACLab-BioinfoDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  twitter: ACLab-BioinfoDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  youtube: ACLab-BioinfoDESCRIPTION=An engaging 1-3 sentence description of your lab.
+  email: alfredlabmailing@gmail.com
+  google-scholar: Alfred S.L. Cheng
+  github: ACLab-Bioinfo
 
 ### jekyll settings
 
