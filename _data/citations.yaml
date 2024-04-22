@@ -182,27 +182,11 @@
   - Casey S. Greene
   - Anthony Gitter
   publisher: PLOS Computational Biology
-  date: '2020-12-04'
+  date: '2019-06-24'
   link: https://doi.org/c7np
   orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/573782
   title: Sequential compression of gene expression across dimensionalities and methods
     reveals no single best method or dimensionality
@@ -218,30 +202,369 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1136/gutjnl-2022-328364
+  title: Targeting PPAR-gamma counteracts tumour adaptation to immune-checkpoint blockade
+    in hepatocellular carcinoma
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Zhewen Xiong
+  - Stephen Lam Chan
+  - Jingying Zhou
+  - Joaquim S.L. Vong
+  - Tsz Tung Kwong
+  - Xuezhen Zeng
+  - Haoran Wu
+  - Jianquan Cao
+  - Yalin Tu
+  - Yu Feng
+  - Weiqin Yang
+  - Patrick Pak-Chun Wong
+  - Willis Wai-Yiu Si-Tou
+  - Xiaoyu Liu
+  - Jing Wang
+  - Wenshu Tang
+  - Zhixian Liang
+  - Jiahuan Lu
+  - Ka Man Li
+  - Jie-Ting Low
+  - Michael Wing-Yan Chan
+  - Howard H.W. Leung
+  - Anthony W.H. Chan
+  - Ka-Fai To
+  - Kevin Yuk-Lap Yip
+  - Yuk Ming Dennis Lo
+  - Joseph Jao-Yiu Sung
+  - Alfred Sze-Lok Cheng
+  publisher: Gut
+  date: '2023-04-05'
+  link: https://doi.org/gr9zwz
+  type: paper
+  image: https://gut.bmj.com/content/gutjnl/early/2023/04/04/gutjnl-2022-328364/F8.large.jpg?width=800&height=600&carousel=1
+  description: "Press release:[CU Medicine uncovers the keys for liver cancer adaptation\
+    \ to immunotherapy Pioneering new combination therapy in a Phase II clinical trial](https://www.cpr.cuhk.edu.hk/en/press/cu-medicine-uncovers-the-keys-for-liver-cancer-adaptation-to-immunotherapy-pioneering-new-combination-therapy-in-a-phase-ii-clinical-trial/),\
+    \ [\u4E2D\u5927\u7834\u89E3\u809D\u764C\u514D\u75AB\u8010\u85E5\u6A5F\u5236 \u914D\
+    \u5408\u65B0\u514D\u75AB\u7642\u6CD5\u80FD\u6709\u6548\u6D88\u9664\u764C\u7D30\
+    \u80DE](https://news.tvb.com/tc/local/64b00ae7c2ea9a2f9f9821e8/%E6%B8%AF%E6%BE%B3-%E4%B8%AD%E5%A4%A7%E7%A0%B4%E8%A7%A3%E8%82%9D%E7%99%8C%E5%85%8D%E7%96%AB%E8%80%90%E8%97%A5%E6%A9%9F%E5%88%B6%E9%85%8D%E5%90%88%E6%96%B0%E5%85%8D%E7%96%AB%E7%99%82%E6%B3%95%E8%83%BD%E6%9C%89%E6%95%88%E6%B6%88%E9%99%A4%E7%99%8C%E7%B4%B0%E8%83%9E)"
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: doi:10.1016/j.ymthe.2022.09.012
+  title: Fibrotic immune microenvironment remodeling mediates superior anti-tumor
+    efficacy of a nano-PD-L1 trap in hepatocellular carcinoma
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Xiaoyu Liu
+  - Jingying Zhou
+  - Haoran Wu
+  - Shufen Chen
+  - Lingyun Zhang
+  - Wenshu Tang
+  - Liang Duan
+  - Ying Wang
+  - Eleanor McCabe
+  - Mengying Hu
+  - Zhuo Yu
+  - Hanzhuang Liu
+  - Chung Hang Jonathan Choi
+  - Joseph Jao-yiu Sung
+  - Leaf Huang
+  - Rihe Liu
+  - Alfred Sze-lok Cheng
+  publisher: Molecular Therapy
+  date: '2023-01-04'
+  link: https://doi.org/gr2pp7
+  type: paper
+  image: https://user-images.githubusercontent.com/81615397/274469102-e7478654-3ef2-41f2-9266-df4bb452b39f.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41423-022-00872-3
+  title: Aberrant cholesterol metabolic signaling impairs antitumor immunosurveillance
+    through natural killer T cell dysfunction in obese liver
+  authors:
+  - Wenshu Tang
+  - Jingying Zhou
+  - Weiqin Yang
+  - Yu Feng
+  - Haoran Wu
+  - Myth T. S. Mok
+  - Lingyun Zhang
+  - Zhixian Liang
+  - Xiaoyu Liu
+  - Zhewen Xiong
+  - Xuezhen Zeng
+  - Jing Wang
+  - Jiahuan Lu
+  - Jingqing Li
+  - Hanyong Sun
+  - Xiaoyu Tian
+  - Philip Chun Yeung
+  - Yong Hou
+  - Heung Man Lee
+  - Candice C. H. Lam
+  - Howard H. W. Leung
+  - Anthony W. H. Chan
+  - Ka Fai To
+  - John Wong
+  - Paul B. S. Lai
+  - Kelvin K. C. Ng
+  - Simon K. H. Wong
+  - Vincent W. S. Wong
+  - Alice P. S. Kong
+  - Joseph J. Y. Sung
+  - Alfred S. L. Cheng
+  publisher: Cellular &amp; Molecular Immunology
+  date: '2022-05-20'
+  link: https://doi.org/gr2pp9
+  type: paper
+  image: https://user-images.githubusercontent.com/81615397/274469236-ba1ec616-9286-417a-a89f-eb8c5da35d1a.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-019-11274-x
+  title: ER-residential Nogo-B accelerates NAFLD-associated HCC mediated by metabolic
+    reprogramming of oxLDL lipophagy
+  authors:
+  - Yuan Tian
+  - Bin Yang
+  - Weinan Qiu
+  - Yajing Hao
+  - Zhenxing Zhang
+  - Bo Yang
+  - Nan Li
+  - Shuqun Cheng
+  - Zhangjun Lin
+  - Yao-cheng Rui
+  - Otto K. W. Cheung
+  - Weiqin Yang
+  - William K. K. Wu
+  - Yue-Sun Cheung
+  - Paul B. S. Lai
+  - Jianjun Luo
+  - Joseph J. Y. Sung
+  - Runsheng Chen
+  - Hong-Yang Wang
+  - Alfred S. L. Cheng
+  - Pengyuan Yang
+  publisher: Nature Communications
+  date: '2019-07-29'
+  link: https://doi.org/gj24dm
+  type: paper
+  image: https://user-images.githubusercontent.com/81615397/274219573-6ed27779-3604-4364-a9e5-489cb8a953b8.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1126/scitranslmed.aaz6804
+  title: A selective HDAC8 inhibitor potentiates antitumor immunity and efficacy of
+    immune checkpoint blockade in hepatocellular carcinoma
+  authors:
+  - Weiqin Yang
+  - Yu Feng
+  - Jingying Zhou
+  - Otto Ka-Wing Cheung
+  - Jianquan Cao
+  - Jing Wang
+  - Wenshu Tang
+  - Yalin Tu
+  - Liangliang Xu
+  - Feng Wu
+  - Zhiwu Tan
+  - Hanyong Sun
+  - Yuan Tian
+  - John Wong
+  - Paul Bo-San Lai
+  - Stephen Lam Chan
+  - Anthony Wing-Hung Chan
+  - Patrick Boon-Ooi Tan
+  - Zhiwei Chen
+  - Joseph Jao-Yiu Sung
+  - Kevin Yuk-Lap Yip
+  - Ka-Fai To
+  - Alfred Sze-Lok Cheng
+  publisher: Science Translational Medicine
+  date: '2021-04-07'
+  link: https://doi.org/gjqjz8
+  type: paper
+  image: https://www.sbs.cuhk.edu.hk/enewsletter/2021vol11no2/_custom/image-slider/alfred-2.jpg
+  description: "Press release:[CUHK Uncovers a New Strategy to Turn \u201CCold\u201D\
+    \ Liver Tumour \u201CHot\u201D Leading to an Effective and Durable Combined Immunotherapy](https://www.cpr.cuhk.edu.hk/en/press/cuhk-uncovers-a-new-strategy-to-turn-cold-liver-tumour-hot-leading-to-an-effective-and-durable-combined-immunotherapy/),\
+    \ [\u4E2D\u5927\u7814\u7A76\u767C\u73FE\u6291\u5236\u6392\u65A5\u514D\u75AB\u7D30\
+    \u80DE\u57FA\u56E0 \u53EF\u589E\u5F37\u764C\u75C7\u7642\u6CD5\u529F\u6548](https://www.stheadline.com/article/2112725/%E4%B8%AD%E5%A4%A7%E7%A0%94%E7%A9%B6%E7%99%BC%E7%8F%BE%E6%8A%91%E5%88%B6%E6%8E%92%E6%96%A5%E5%85%8D%E7%96%AB%E7%B4%B0%E8%83%9E%E5%9F%BA%E5%9B%A0-%E5%8F%AF%E5%A2%9E%E5%BC%B7%E7%99%8C%E7%97%87%E7%99%82%E6%B3%95%E5%8A%9F%E6%95%88)"
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41423-020-00534-2
+  title: Cell cycle-related kinase reprograms the liver immune microenvironment to
+    promote cancer metastasis
+  authors:
+  - Xuezhen Zeng
+  - Jingying Zhou
+  - Zhewen Xiong
+  - Hanyong Sun
+  - Weiqin Yang
+  - Myth T. S. Mok
+  - Jing Wang
+  - Jingqing Li
+  - Man Liu
+  - Wenshu Tang
+  - Yu Feng
+  - Hector Kwong-Sang Wang
+  - Shun-Wa Tsang
+  - King-Lau Chow
+  - Philip Chun Yeung
+  - John Wong
+  - Paul Bo-San Lai
+  - Anthony Wing-Hung Chan
+  - Ka Fai To
+  - Stephen Lam Chan
+  - Qiang Xia
+  - Jing Xue
+  - Xiao Chen
+  - Jun Yu
+  - Sui Peng
+  - Joseph Jao-Yiu Sung
+  - Ming Kuang
+  - Alfred Sze-Lok Cheng
+  publisher: Cellular &amp; Molecular Immunology
+  date: '2020-09-02'
+  link: https://doi.org/gr2pqc
+  type: paper
+  image: https://user-images.githubusercontent.com/81615397/274469840-049ba06f-47ac-47ab-b20a-064ede689cac.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1136/gutjnl-2018-317257
+  title: Targeting monocyte-intrinsic enhancer reprogramming improves immunotherapy
+    efficacy in hepatocellular carcinoma
+  authors:
+  - Man Liu
+  - Jingying Zhou
+  - Xiaoyu Liu
+  - Yu Feng
+  - Weiqin Yang
+  - Feng Wu
+  - Otto Ka-Wing Cheung
+  - Hanyong Sun
+  - Xuezhen Zeng
+  - Wenshu Tang
+  - Myth T S Mok
+  - John Wong
+  - Philip Chun Yeung
+  - Paul Bo San Lai
+  - Zhiwei Chen
+  - Hongchuan Jin
+  - Jie Chen
+  - Stephen Lam Chan
+  - Anthony W H Chan
+  - Ka Fai To
+  - Joseph J Y Sung
+  - Minhu Chen
+  - Alfred Sze-Lok Cheng
+  publisher: Gut
+  date: '2020-01-07'
+  link: https://doi.org/gk43x8
+  type: paper
+  image: https://gut.bmj.com/content/gutjnl/69/2/365/F8.large.jpg?width=800&height=600&carousel=1
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-018-08245-z
+  title: Aberrant enhancer hypomethylation contributes to hepatic carcinogenesis through
+    global transcriptional reprogramming
+  authors:
+  - Lei Xiong
+  - Feng Wu
+  - Qiong Wu
+  - Liangliang Xu
+  - Otto K. Cheung
+  - Wei Kang
+  - Myth T. Mok
+  - Lemuel L. M. Szeto
+  - Cheuk-Yin Lun
+  - Raymond W. Lung
+  - Jinglin Zhang
+  - Ken H. Yu
+  - Sau-Dan Lee
+  - Guangcun Huang
+  - Chiou-Miin Wang
+  - Joseph Liu
+  - Zhuo Yu
+  - Dae-Yeul Yu
+  - Jian-Liang Chou
+  - Wan-Hong Huang
+  - Bo Feng
+  - Yue-Sun Cheung
+  - Paul B. Lai
+  - Patrick Tan
+  - Nathalie Wong
+  - Michael W. Chan
+  - Tim H. Huang
+  - Kevin Y. Yip
+  - Alfred S. Cheng
+  - Ka-Fai To
+  publisher: Nature Communications
+  date: '2019-01-18'
+  link: https://doi.org/gmf2s7
+  type: paper
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-018-08245-z/MediaObjects/41467_2018_8245_Fig1_HTML.png?as=webp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-018-07402-8
+  title: An inflammatory-CCRK circuitry drives mTORC1-dependent metabolic and immunosuppressive
+    reprogramming in obesity-associated hepatocellular carcinoma
+  authors:
+  - Hanyong Sun
+  - Weiqin Yang
+  - Yuan Tian
+  - Xuezhen Zeng
+  - Jingying Zhou
+  - Myth T. S. Mok
+  - Wenshu Tang
+  - Yu Feng
+  - Liangliang Xu
+  - Anthony W. H. Chan
+  - Joanna H. Tong
+  - Yue-Sun Cheung
+  - Paul B. S. Lai
+  - Hector K. S. Wang
+  - Shun-Wa Tsang
+  - King-Lau Chow
+  - Mengying Hu
+  - Rihe Liu
+  - Leaf Huang
+  - Bing Yang
+  - Pengyuan Yang
+  - Ka-Fai To
+  - Joseph J. Y. Sung
+  - Grace L. H. Wong
+  - Vincent W. S. Wong
+  - Alfred S. L. Cheng
+  publisher: Nature Communications
+  date: '2018-12-06'
+  link: https://doi.org/ggpbjq
+  type: paper
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-018-07402-8/MediaObjects/41467_2018_7402_Fig7_HTML.png?as=webp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1136/gutjnl-2017-314032
+  title: Hepatoma-intrinsic CCRK inhibition diminishes myeloid-derived suppressor
+    cell immunosuppression and enhances immune-checkpoint blockade efficacy
+  authors:
+  - Jingying Zhou
+  - Man Liu
+  - Hanyong Sun
+  - Yu Feng
+  - Liangliang Xu
+  - Anthony W H Chan
+  - Joanna H Tong
+  - John Wong
+  - Charing Ching Ning Chong
+  - Paul B S Lai
+  - Hector Kwong-Sang Wang
+  - Shun-Wa Tsang
+  - Tyler Goodwin
+  - Rihe Liu
+  - Leaf Huang
+  - Zhiwei Chen
+  - Joseph JY Sung
+  - King Lau Chow
+  - Ka Fai To
+  - Alfred Sze-Lok Cheng
+  publisher: Gut
+  date: '2017-09-22'
+  link: https://doi.org/gbx247
+  type: paper
+  image: https://gut.bmj.com/content/gutjnl/67/5/931/F8.large.jpg?width=800&height=600&carousel=1
   plugin: sources.py
   file: sources.yaml
