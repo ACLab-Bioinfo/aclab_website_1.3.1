@@ -20,6 +20,9 @@ links:
 # Biography
 Alfred Cheng is a Professor of the School of Biomedical Sciences and Assistant Dean in Research of the Faculty of Medicine at The Chinese University of Hong Kong (CUHK). He completed his Ph.D. under the mentorship of Prof. Joseph Sung at CUHK and his postdoctoral training in the laboratory of Prof. Tim Huang at The Ohio State University. His research aims at advancing the basic understanding and precision immunotherapy of hepatocellular carcinoma. His multi-disciplinary collaborative team has employed the cutting-edge single-cell multi-omics and AI innovation to understand tumor adaptation to immune-checkpoint blockade and identify the cellular and molecular mechanisms of immunotherapeutic resistance. His recent works on the development of effective and durable combination immunotherapies have been published and highlighted in top journals of the field such as Gut, Journal of Hepatology, and Science Translational Medicine. He is the recipient of the Most Promising Young Investigator Award by the HK Government (2014) and CUHK (2015, 2019), and the 10th HMRF Anniversary Award in Breakthrough Research by the Food and Health Bureau of HK Government (2021). 
 
+\
+\
+
 ## CUHK Employment
 * Assistant Dean (Research), Faculty of Medicine  
 * Professor, School of Biomedical Sciences  
@@ -39,7 +42,6 @@ Alfred Cheng is a Professor of the School of Biomedical Sciences and Assistant D
 * Sir Edward Youde Memorial Scholarship, 2001  
 * Arthur Yau Award, 17th Annual Meeting of the Hong Kong Orthopaedic Association, 1997  
 
-
 ## Professional Service
 * Experts Panel for Ministry of Science and Technology of China, People's Republic of China
 * Founding Chairman and Council Member, Japan-Taiwan-Hong Kong Working Group on Cancer Epigenomics
@@ -57,7 +59,6 @@ Alfred Cheng is a Professor of the School of Biomedical Sciences and Assistant D
 * Associate Editor, Frontiers in Genetics
 * Editorial Board Member, Cellular & Molecular Immunology
 * Guest Editor, Journal of Leukocyte Biology
-
 
 ## Research Support
 Supported by 36 competitive research grants in PC/PI/co-PI capacity (including 1TBRS/ 4CRF/ 1RIF/ 6GRF/ 6RFCID/ HMRF/ 1NSFC/ 3AstraZeneca Program/ Terry Fox Foundation/ Li Ka Shing Foundation): ~HK$113,500,000.

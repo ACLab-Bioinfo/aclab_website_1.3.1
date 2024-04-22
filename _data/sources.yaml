@@ -1,23 +1,51 @@
-- id: doi:10.1371/journal.pcbi.1007128
+- id: doi:10.1136/gutjnl-2022-328364
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+  image: https://gut.bmj.com/content/gutjnl/early/2023/04/04/gutjnl-2022-328364/F8.large.jpg?width=800&height=600&carousel=1
+  date: '2023-04-05'
+  description: Press release:[CU Medicine uncovers the keys for liver cancer adaptation to immunotherapy Pioneering new combination therapy in a Phase II clinical trial](https://www.cpr.cuhk.edu.hk/en/press/cu-medicine-uncovers-the-keys-for-liver-cancer-adaptation-to-immunotherapy-pioneering-new-combination-therapy-in-a-phase-ii-clinical-trial/), [中大破解肝癌免疫耐藥機制 配合新免疫療法能有效消除癌細胞](https://news.tvb.com/tc/local/64b00ae7c2ea9a2f9f9821e8/%E6%B8%AF%E6%BE%B3-%E4%B8%AD%E5%A4%A7%E7%A0%B4%E8%A7%A3%E8%82%9D%E7%99%8C%E5%85%8D%E7%96%AB%E8%80%90%E8%97%A5%E6%A9%9F%E5%88%B6%E9%85%8D%E5%90%88%E6%96%B0%E5%85%8D%E7%96%AB%E7%99%82%E6%B3%95%E8%83%BD%E6%9C%89%E6%95%88%E6%B6%88%E9%99%A4%E7%99%8C%E7%B4%B0%E8%83%9E)
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: doi:10.1016/j.ymthe.2022.09.012
+  type: paper
+  image: https://user-images.githubusercontent.com/81615397/274469102-e7478654-3ef2-41f2-9266-df4bb452b39f.jpg
+  date: '2023-01-04'
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1038/s41423-022-00872-3
+  type: paper
+  image: https://user-images.githubusercontent.com/81615397/274469236-ba1ec616-9286-417a-a89f-eb8c5da35d1a.png
+  date: '2022-05-20'
+
+- id: doi:10.1038/s41467-019-11274-x
+  type: paper
+  image: https://user-images.githubusercontent.com/81615397/274219573-6ed27779-3604-4364-a9e5-489cb8a953b8.png
+  date: '2019-07-29'
+
+- id: doi:10.1126/scitranslmed.aaz6804
+  type: paper
+  image: https://www.sbs.cuhk.edu.hk/enewsletter/2021vol11no2/_custom/image-slider/alfred-2.jpg
+  date: '2021-04-07'
+  description: Press release:[CUHK Uncovers a New Strategy to Turn “Cold” Liver Tumour “Hot” Leading to an Effective and Durable Combined Immunotherapy](https://www.cpr.cuhk.edu.hk/en/press/cuhk-uncovers-a-new-strategy-to-turn-cold-liver-tumour-hot-leading-to-an-effective-and-durable-combined-immunotherapy/), [中大研究發現抑制排斥免疫細胞基因 可增強癌症療法功效](https://www.stheadline.com/article/2112725/%E4%B8%AD%E5%A4%A7%E7%A0%94%E7%A9%B6%E7%99%BC%E7%8F%BE%E6%8A%91%E5%88%B6%E6%8E%92%E6%96%A5%E5%85%8D%E7%96%AB%E7%B4%B0%E8%83%9E%E5%9F%BA%E5%9B%A0-%E5%8F%AF%E5%A2%9E%E5%BC%B7%E7%99%8C%E7%97%87%E7%99%82%E6%B3%95%E5%8A%9F%E6%95%88)
+
+- id: doi:10.1038/s41423-020-00534-2
+  type: paper
+  image: https://user-images.githubusercontent.com/81615397/274469840-049ba06f-47ac-47ab-b20a-064ede689cac.png
+  date: '2020-09-02'
+
+- id: doi:10.1136/gutjnl-2018-317257
+  type: paper
+  image: https://gut.bmj.com/content/gutjnl/69/2/365/F8.large.jpg?width=800&height=600&carousel=1
+  date: '2020-01-07'
+
+- id: doi:10.1038/s41467-018-08245-z
+  type: paper
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-018-08245-z/MediaObjects/41467_2018_8245_Fig1_HTML.png?as=webp
+  date: '2019-01-18'
+
+- id: doi:10.1038/s41467-018-07402-8
+  type: paper
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-018-07402-8/MediaObjects/41467_2018_7402_Fig7_HTML.png?as=webp
+  date: '2018-12-06'
+
+- id: doi:10.1136/gutjnl-2017-314032
+  type: paper
+  image: https://gut.bmj.com/content/gutjnl/67/5/931/F8.large.jpg?width=800&height=600&carousel=1
+  date: '2017-09-22'
