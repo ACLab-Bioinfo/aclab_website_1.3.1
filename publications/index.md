@@ -5,17 +5,15 @@ nav:
 
 carousels:
 - images: 
-  - image: https://user-images.githubusercontent.com/81615397/274193749-7a91708f-7504-476b-a005-1247bd673e74.png
-  - image: https://user-images.githubusercontent.com/81615397/274208755-36afb6e3-6768-4f7f-851d-7a4376244a06.png
-  - image: https://user-images.githubusercontent.com/81615397/274200043-d0684976-1093-45b3-b483-856200f7290f.png
-  - image: https://user-images.githubusercontent.com/81615397/274223963-b8ba1c30-fe76-4b91-9feb-529d29374185.png
-  - image: https://user-images.githubusercontent.com/81615397/274223809-f89b08f2-ea16-4ac4-ae4e-2fac7dedf556.png
-  - image: https://user-images.githubusercontent.com/81615397/274193741-577327af-dd8d-4f95-a443-8c623ede1979.png
-  - image: https://user-images.githubusercontent.com/81615397/274193679-054afaa2-15ce-4613-9120-5f53045197cc.png
-  - image: https://user-images.githubusercontent.com/81615397/273845576-b9cfd126-327e-47df-a3e8-3c3e3c6f82ce.png
-  - image: https://user-images.githubusercontent.com/81615397/273845467-a4ac9693-f547-4986-8879-d74d12fd2286.png
-  - image: https://user-images.githubusercontent.com/81615397/274130913-42c68f44-7b3b-492f-abf8-f733dc2f88bc.png
-  - image: https://user-images.githubusercontent.com/81615397/274130923-ced97c85-0fbe-478e-a2eb-cc88af8ed969.png
+  - image: https://github.com/ACLab-Bioinfo/aclabwebsite_figbed/blob/ab047fb7b0be88d8776408c0a0a15260c390632b/Publication/2023MT.png?raw=true
+  - image: https://github.com/ACLab-Bioinfo/aclabwebsite_figbed/blob/ab047fb7b0be88d8776408c0a0a15260c390632b/Publication/2023Gut.png?raw=true
+  - image: https://github.com/ACLab-Bioinfo/aclabwebsite_figbed/blob/ab047fb7b0be88d8776408c0a0a15260c390632b/Publication/2022CMI.png?raw=true
+  - image: https://github.com/ACLab-Bioinfo/aclabwebsite_figbed/blob/ab047fb7b0be88d8776408c0a0a15260c390632b/Publication/2021STM.png?raw=true
+  - image: https://github.com/ACLab-Bioinfo/aclabwebsite_figbed/blob/ab047fb7b0be88d8776408c0a0a15260c390632b/Publication/2021CMI.png?raw=true
+  - image: https://github.com/ACLab-Bioinfo/aclabwebsite_figbed/blob/ab047fb7b0be88d8776408c0a0a15260c390632b/Publication/2019Gut.png?raw=true
+  - image: https://github.com/ACLab-Bioinfo/aclabwebsite_figbed/blob/ab047fb7b0be88d8776408c0a0a15260c390632b/Publication/2017Gut.png?raw=true
+  - image: https://github.com/ACLab-Bioinfo/aclabwebsite_figbed/blob/ab047fb7b0be88d8776408c0a0a15260c390632b/Publication/2015JH.png?raw=true
+  - image: https://github.com/ACLab-Bioinfo/aclabwebsite_figbed/blob/ab047fb7b0be88d8776408c0a0a15260c390632b/Publication/2011JCI.png?raw=true
 ---
 
 
