@@ -72,7 +72,7 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 <td markdown="span">2023</td>
 <td markdown="span">CHEN Shufen</td>
 <td markdown="span">Ph.D student</td>
-<td markdown="span">To be updated</td>
+<td markdown="span">Lecturer, Schoo of Medicine, Jinan University</td>
 </tr>
 <tr>
 <td markdown="span">2022</td>
