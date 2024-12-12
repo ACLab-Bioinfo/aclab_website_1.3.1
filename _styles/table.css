@@ -1,6 +1,7 @@
 table {
-  margin: 40px o;
-  overflow-wrap: auto;
+  margin: 40px auto;
+  border-collapse: collapse;
+  overflow-wrap: anywhere;
 }
 
 th {
