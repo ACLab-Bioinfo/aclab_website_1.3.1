@@ -1,247 +1,3691 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1038/s41467-018-08245-z
+  title: Aberrant enhancer hypomethylation contributes to hepatic carcinogenesis through
+    global transcriptional reprogramming
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
-  authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
-  authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
-  authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
+  - Lei Xiong
+  - Feng Wu
+  - Qiong Wu
+  - Liangliang Xu
+  - Otto K. Cheung
+  - Wei Kang
+  - Myth T. Mok
+  - Lemuel L. M. Szeto
+  - Cheuk-Yin Lun
+  - Raymond W. Lung
+  - Jinglin Zhang
+  - Ken H. Yu
+  - Sau-Dan Lee
+  - Guangcun Huang
+  - Chiou-Miin Wang
+  - Joseph Liu
+  - Zhuo Yu
+  - Dae-Yeul Yu
+  - Jian-Liang Chou
+  - Wan-Hong Huang
+  - Bo Feng
+  - Yue-Sun Cheung
+  - Paul B. Lai
+  - Patrick Tan
+  - Nathalie Wong
+  - Michael W. Chan
+  - Tim H. Huang
+  - Kevin Y. Yip
+  - Alfred S. Cheng
+  - Ka-Fai To
+  publisher: Nature Communications
+  date: '2019-01-18'
+  link: https://doi.org/gmf2s7
+  orcid: 0000-0003-2345-6951
   plugin: sources.py
   file: sources.yaml
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-018-08245-z/MediaObjects/41467_2018_8245_Fig1_HTML.png?as=webp
+- id: doi:10.1038/s41467-019-11274-x
+  title: ER-residential Nogo-B accelerates NAFLD-associated HCC mediated by metabolic
+    reprogramming of oxLDL lipophagy
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Yuan Tian
+  - Bin Yang
+  - Weinan Qiu
+  - Yajing Hao
+  - Zhenxing Zhang
+  - Bo Yang
+  - Nan Li
+  - Shuqun Cheng
+  - Zhangjun Lin
+  - Yao-cheng Rui
+  - Otto K. W. Cheung
+  - Weiqin Yang
+  - William K. K. Wu
+  - Yue-Sun Cheung
+  - Paul B. S. Lai
+  - Jianjun Luo
+  - Joseph J. Y. Sung
+  - Runsheng Chen
+  - Hong-Yang Wang
+  - Alfred S. L. Cheng
+  - Pengyuan Yang
+  publisher: Nature Communications
+  date: '2019-07-29'
+  link: https://doi.org/gj24dm
+  orcid: 0000-0003-2345-6951
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  type: paper
+  image: https://user-images.githubusercontent.com/81615397/274219573-6ed27779-3604-4364-a9e5-489cb8a953b8.png
+- id: doi:10.1136/gutjnl-2018-317257
+  title: Targeting monocyte-intrinsic enhancer reprogramming improves immunotherapy
+    efficacy in hepatocellular carcinoma
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
+  - Man Liu
+  - Jingying Zhou
+  - Xiaoyu Liu
+  - Yu Feng
+  - Weiqin Yang
+  - Feng Wu
+  - Otto Ka-Wing Cheung
+  - Hanyong Sun
+  - Xuezhen Zeng
+  - Wenshu Tang
+  - Myth T S Mok
+  - John Wong
+  - Philip Chun Yeung
+  - Paul Bo San Lai
+  - Zhiwei Chen
+  - Hongchuan Jin
+  - Jie Chen
+  - Stephen Lam Chan
+  - Anthony W H Chan
+  - Ka Fai To
+  - Joseph J Y Sung
+  - Minhu Chen
+  - Alfred Sze-Lok Cheng
+  publisher: Gut
+  date: '2020-01-07'
+  link: https://doi.org/gk43x8
+  orcid: 0000-0003-2345-6951
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: https://gut.bmj.com/content/gutjnl/69/2/365/F8.large.jpg?width=800&height=600&carousel=1
+- id: doi:10.1101/gr.240036.118
+  title: New guidelines for DNA methylome studies regarding 5-hydroxymethylcytosine
+    for understanding transcriptional regulation
+  authors:
+  - Le Li
+  - Yuwei Gao
+  - Qiong Wu
+  - Alfred S.L. Cheng
+  - Kevin Y. Yip
+  publisher: Genome Research
+  date: '2019-02-19'
+  link: https://doi.org/ggqztr
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/ijms20071576
+  title: Mechanotransduction and Cytoskeleton Remodeling Shaping YAP1 in Gastric Tumorigenesis
+  authors:
+  - Jinglin Zhang
+  - Yuhang Zhou
+  - Patrick M.K. Tang
+  - Alfred S.L. Cheng
+  - Jun Yu
+  - Ka Fai To
+  - Wei Kang
+  publisher: International Journal of Molecular Sciences
+  date: '2019-03-29'
+  link: https://doi.org/gr2rv3
+  orcid: 0000-0003-2345-6951
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/cas.13920
+  title: E2F6 functions as a competing endogenous RNA, and transcriptional repressor,
+    to promote ovarian cancer stemness
+  authors:
+  - Frank H. C. Cheng
+  - "Hon\u2010Yi Lin"
+  - "Tzy\u2010Wei Hwang"
+  - "Yin\u2010Chen Chen"
+  - "Rui\u2010Lan Huang"
+  - "Chia\u2010Bin Chang"
+  - Weiqin Yang
+  - "Ru\u2010Inn Lin"
+  - "Ching\u2010Wen Lin"
+  - Gary C. W. Chen
+  - "Shu\u2010Yuan Mai"
+  - Jora M. J. Lin
+  - "Yu\u2010Ming Chuang"
+  - "Jian\u2010Liang Chou"
+  - "Li\u2010Wei Kuo"
+  - Chin Li
+  - Alfred S. L. Cheng
+  - "Hung\u2010Cheng Lai"
+  - "Shu\u2010Fen Wu"
+  - "Je\u2010Chiang Tsai"
+  - Michael W. Y. Chan
+  publisher: Cancer Science
+  date: '2019-01-25'
+  link: https://doi.org/gjrmmx
+  orcid: 0000-0003-2345-6951
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41388-018-0430-x
+  title: FGF18, a prominent player in FGF signaling, promotes gastric tumorigenesis
+    through autocrine manner and is negatively regulated by miR-590-5p
+  authors:
+  - Jinglin Zhang
+  - Yuhang Zhou
+  - Tingting Huang
+  - Feng Wu
+  - Yi Pan
+  - Yujuan Dong
+  - Yan Wang
+  - Aden K. Y. Chan
+  - Liping Liu
+  - Johnny S. H. Kwan
+  - Alvin H. K. Cheung
+  - Chi Chun Wong
+  - Angela K. F. Lo
+  - Alfred S. L. Cheng
+  - Jun Yu
+  - Kwok Wai Lo
+  - Wei Kang
+  - Ka Fai To
+  publisher: Oncogene
+  date: '2018-08-06'
+  link: https://doi.org/gqfd5g
+  orcid: 0000-0003-2345-6951
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-018-07402-8
+  title: An inflammatory-CCRK circuitry drives mTORC1-dependent metabolic and immunosuppressive
+    reprogramming in obesity-associated hepatocellular carcinoma
+  authors:
+  - Hanyong Sun
+  - Weiqin Yang
+  - Yuan Tian
+  - Xuezhen Zeng
+  - Jingying Zhou
+  - Myth T. S. Mok
+  - Wenshu Tang
+  - Yu Feng
+  - Liangliang Xu
+  - Anthony W. H. Chan
+  - Joanna H. Tong
+  - Yue-Sun Cheung
+  - Paul B. S. Lai
+  - Hector K. S. Wang
+  - Shun-Wa Tsang
+  - King-Lau Chow
+  - Mengying Hu
+  - Rihe Liu
+  - Leaf Huang
+  - Bing Yang
+  - Pengyuan Yang
+  - Ka-Fai To
+  - Joseph J. Y. Sung
+  - Grace L. H. Wong
+  - Vincent W. S. Wong
+  - Alfred S. L. Cheng
+  publisher: Nature Communications
+  date: '2018-12-06'
+  link: https://doi.org/ggpbjq
+  orcid: 0000-0003-2345-6951
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-018-07402-8/MediaObjects/41467_2018_7402_Fig7_HTML.png?as=webp
+- id: doi:10.1016/j.ebiom.2018.08.043
+  title: "Androgen receptor drives hepatocellular carcinogenesis by activating enhancer\
+    \ of zeste homolog 2-mediated Wnt/\u03B2-catenin signaling"
+  authors:
+  - Haibin Song
+  - Zhuo Yu
+  - Xuehua Sun
+  - Jun Feng
+  - Qi Yu
+  - Hanif Khan
+  - Xiaojun Zhu
+  - Lingying Huang
+  - Man Li
+  - Myth T.S. Mok
+  - Alfred S.L. Cheng
+  - Yueqiu Gao
+  - Hai Feng
+  publisher: EBioMedicine
+  date: '2018-09-01'
+  link: https://doi.org/gr2rv4
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-018-22113-2
+  title: "Bufalin suppresses hepatocarcinogenesis by targeting \u03B2-catenin/TCF\
+    \ signaling via cell cycle-related kinase"
+  authors:
+  - Zhuo Yu
+  - Hai Feng
+  - Xuehua Sun
+  - Yunhui Zhuo
+  - Man Li
+  - Zhenhua Zhou
+  - Lingying Huang
+  - Yun Jiang
+  - Xiaojun Zhu
+  - Xin Zhang
+  - Fan Le
+  - Chao Zheng
+  - Alfred Szelok Cheng
+  - Yueqiu Gao
+  publisher: Scientific Reports
   date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  link: https://doi.org/gn9xmr
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.pharmthera.2018.01.008
+  title: CCRK is a novel signalling hub exploitable in cancer immunotherapy
+  authors:
+  - Myth T. Mok
+  - Jingying Zhou
+  - Wenshu Tang
+  - Xuezhen Zeng
+  - Antony W. Oliver
+  - Simon E. Ward
+  - Alfred S. Cheng
+  publisher: Pharmacology &amp; Therapeutics
+  date: '2018-06-01'
+  link: https://doi.org/gdqs9w
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.canlet.2018.04.004
+  title: Emerging roles of Hippo signaling in inflammation and YAP-driven tumor immunity
+  authors:
+  - Yuhang Zhou
+  - Tingting Huang
+  - Jinglin Zhang
+  - Alfred S.L. Cheng
+  - Jun Yu
+  - Wei Kang
+  - Ka Fai To
+  publisher: Cancer Letters
+  date: '2018-07-01'
+  link: https://doi.org/gdnhgg
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1136/gutjnl-2017-314032
+  title: Hepatoma-intrinsic CCRK inhibition diminishes myeloid-derived suppressor
+    cell immunosuppression and enhances immune-checkpoint blockade efficacy
+  authors:
+  - Jingying Zhou
+  - Man Liu
+  - Hanyong Sun
+  - Yu Feng
+  - Liangliang Xu
+  - Anthony W H Chan
+  - Joanna H Tong
+  - John Wong
+  - Charing Ching Ning Chong
+  - Paul B S Lai
+  - Hector Kwong-Sang Wang
+  - Shun-Wa Tsang
+  - Tyler Goodwin
+  - Rihe Liu
+  - Leaf Huang
+  - Zhiwei Chen
+  - Joseph JY Sung
+  - King Lau Chow
+  - Ka Fai To
+  - Alfred Sze-Lok Cheng
+  publisher: Gut
+  date: '2017-09-22'
+  link: https://doi.org/gbx247
+  orcid: 0000-0003-2345-6951
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: https://gut.bmj.com/content/gutjnl/67/5/931/F8.large.jpg?width=800&height=600&carousel=1
+- id: doi:10.1093/nar/gky589
+  title: Loss of tumor suppressor IGFBP4 drives epigenetic reprogramming in hepatic
+    carcinogenesis
+  authors:
+  - Ying-Ying Lee
+  - Myth TS Mok
+  - Wei Kang
+  - Weiqin Yang
+  - Wenshu Tang
+  - Feng Wu
+  - Liangliang Xu
+  - Mingfei Yan
+  - Zhuo Yu
+  - Sau-Dan Lee
+  - Joanna H M Tong
+  - Yue-Sun Cheung
+  - Paul B S Lai
+  - Dae-Yeul Yu
+  - Qianben Wang
+  - Grace L H Wong
+  - Andrew M Chan
+  - Kevin Y Yip
+  - Ka-Fai To
+  - Alfred S L Cheng
+  publisher: Nucleic Acids Research
+  date: '2018-07-10'
+  link: https://doi.org/gfqzdv
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41419-017-0134-0
+  title: miR-375 is involved in Hippo pathway by targeting YAP1/TEAD4-CTGF axis in
+    gastric carcinogenesis
+  authors:
+  - Wei Kang
+  - Tingting Huang
+  - Yuhang Zhou
+  - Jinglin Zhang
+  - Raymond W. M. Lung
+  - Joanna H. M. Tong
+  - Anthony W. H. Chan
+  - Bin Zhang
+  - Chi Chun Wong
+  - Feng Wu
+  - Yujuan Dong
+  - Shiyan Wang
+  - Weiqin Yang
+  - Yi Pan
+  - Wing Po Chak
+  - Alvin H. K. Cheung
+  - Jesse C. S. Pang
+  - Jun Yu
+  - Alfred S. L. Cheng
+  - Ka Fai To
+  publisher: Cell Death &amp; Disease
+  date: '2018-01-24'
+  link: https://doi.org/ghkrvd
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/annonc/mdy397
+  title: Oncogenes expand during evolution to withstand somatic amplification
+  authors:
+  - X. Wang
+  - X. Li
+  - L. Zhang
+  - S.H. Wong
+  - M.H.T. Wang
+  - G. Tse
+  - R.Z.W. Dai
+  - G. Nakatsu
+  - O.O. Coker
+  - Z. Chen
+  - H. Ko
+  - J.Y.K. Chan
+  - T. Liu
+  - C.H.K. Cheng
+  - A.S.L. Cheng
+  - K.F. To
+  - D. Plewczynski
+  - J.J.Y. Sung
+  - J. Yu
+  - T. Gin
+  - M.T.V. Chan
+  - W.K.K. Wu
+  publisher: Annals of Oncology
+  date: '2018-11-01'
+  link: https://doi.org/gr2rv5
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/mc.22831
+  title: PIEZO1 functions as a potential oncogene by promoting cell proliferation
+    and migration in gastric carcinogenesis
+  authors:
+  - Jinglin Zhang
+  - Yuhang Zhou
+  - Tingting Huang
+  - Feng Wu
+  - Liping Liu
+  - Johnny S. H. Kwan
+  - Alfred S. L. Cheng
+  - Jun Yu
+  - Ka Fai To
+  - Wei Kang
+  publisher: Molecular Carcinogenesis
+  date: '2018-05-02'
+  link: https://doi.org/gd2h7r
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41388-017-0029-7
+  title: SRGAP1, a crucial target of miR-340 and miR-124, functions as a potential
+    oncogene in gastric tumorigenesis
+  authors:
+  - Tingting Huang
+  - Yuhang Zhou
+  - Jinglin Zhang
+  - Chi Chun Wong
+  - Weilin Li
+  - Johnny S. H. Kwan
+  - Rui Yang
+  - Aden K. Y. Chan
+  - Yujuan Dong
+  - Feng Wu
+  - Bin Zhang
+  - Alvin H. K. Cheung
+  - William K. K. Wu
+  - Alfred S. L. Cheng
+  - Jun Yu
+  - Nathalie Wong
+  - Wei Kang
+  - Ka Fai To
+  publisher: Oncogene
+  date: '2017-12-13'
+  link: https://doi.org/gc59bd
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21037/jtd.2018.10.16
+  title: Targeting the miR-630/YAP1/ERK feedback loop in epidermal growth factor receptor-mutated
+    lung adenocarcinomas
+  authors:
+  - Jinglin Zhang
+  - Alfred S. L. Cheng
+  - Jun Yu
+  - Ka Fai To
+  - Wei Kang
+  publisher: Journal of Thoracic Disease
+  date: '2018-11-01'
+  link: https://doi.org/gr2rv6
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/jcmm.13354
+  title: "The oncogenic role of Epstein\u2013Barr virus\u2010encoded micro<scp>RNA</scp>s\
+    \ in Epstein\u2013Barr virus\u2010associated gastric carcinoma"
+  authors:
+  - Jinglin Zhang
+  - Tingting Huang
+  - Yuhang Zhou
+  - Alfred S. L. Cheng
+  - Jun Yu
+  - Ka Fai To
+  - Wei Kang
+  publisher: Journal of Cellular and Molecular Medicine
+  date: '2017-10-09'
+  link: https://doi.org/gb2pt6
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12967-018-1466-y
+  title: The physiological role of Motin family and its dysregulation in tumorigenesis
+  authors:
+  - Tingting Huang
+  - Yuhang Zhou
+  - Jinglin Zhang
+  - Alfred S. L. Cheng
+  - Jun Yu
+  - Ka Fai To
+  - Wei Kang
+  publisher: Journal of Translational Medicine
+  date: '2018-04-12'
+  link: https://doi.org/gdhg4r
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/ijc.30414
+  title: "<scp>EZH</scp>2 coupled with <scp>HOTAIR</scp> to silence Micro<scp>RNA</scp>\u2010\
+    34a by the induction of heterochromatin formation in human pancreatic ductal adenocarcinoma"
+  authors:
+  - "Chi\u2010Han Li"
+  - Zhangang Xiao
+  - "Joanna Hung\u2013Man Tong"
+  - "Ka\u2010Fai To"
+  - Xiangdong Fang
+  - Alfred SL Cheng
+  - Yangchao Chen
+  publisher: International Journal of Cancer
+  date: '2016-09-19'
+  link: https://doi.org/gr2rv7
+  orcid: 0000-0003-2345-6951
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s12943-017-0647-2
+  title: IGF2BP3 functions as a potential oncogene and is a crucial target of miR-34a
+    in gastric carcinogenesis
+  authors:
+  - Yuhang Zhou
+  - Tingting Huang
+  - Ho Lam Siu
+  - Chi Chun Wong
+  - Yujuan Dong
+  - Feng Wu
+  - Bin Zhang
+  - William K. K. Wu
+  - Alfred S. L. Cheng
+  - Jun Yu
+  - Ka Fai To
+  - Wei Kang
+  publisher: Molecular Cancer
+  date: '2017-04-11'
+  link: https://doi.org/f94nbj
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1136/gutjnl-2015-309800
+  title: Metagenomic analysis of faecal microbiome as a tool towards targeted non-invasive
+    biomarkers for colorectal cancer
+  authors:
+  - Jun Yu
+  - Qiang Feng
+  - Sunny Hei Wong
+  - Dongya Zhang
+  - Qiao yi Liang
+  - Youwen Qin
+  - Longqing Tang
+  - Hui Zhao
+  - Jan Stenvang
+  - Yanli Li
+  - Xiaokai Wang
+  - Xiaoqiang Xu
+  - Ning Chen
+  - William Ka Kei Wu
+  - Jumana Al-Aama
+  - "Hans J\xF8rgen Nielsen"
+  - Pia Kiilerich
+  - Benjamin Anderschou Holbech Jensen
+  - Tung On Yau
+  - Zhou Lan
+  - Huijue Jia
+  - Junhua Li
+  - Liang Xiao
+  - Thomas Yuen Tung Lam
+  - Siew Chien Ng
+  - Alfred Sze-Lok Cheng
+  - Vincent Wai-Sun Wong
+  - Francis Ka Leung Chan
+  - Xun Xu
+  - Huanming Yang
+  - Lise Madsen
+  - Christian Datz
+  - Herbert Tilg
+  - Jian Wang
+  - "Nils Br\xFCnner"
+  - Karsten Kristiansen
+  - Manimozhiyan Arumugam
+  - Joseph Jao-Yiu Sung
+  - Jun Wang
+  publisher: Gut
+  date: '2015-09-25'
+  link: https://doi.org/f9mrn6
+  orcid: 0000-0003-2345-6951
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/molbev/msw295
+  title: Oncogenes without a neighboring tumor-suppressor gene are more prone to amplification
+  authors:
+  - William K.K. Wu
+  - Xiangchun Li
+  - Xiansong Wang
+  - Rudin Z.W. Dai
+  - Alfred S.L. Cheng
+  - Maggie H.T. Wang
+  - Thomas Kwong
+  - Tai C. Chow
+  - Jun Yu
+  - Matthew T.V. Chan
+  - Sunny H. Wong
+  publisher: Molecular Biology and Evolution
+  date: '2017-01-12'
+  link: https://doi.org/f9ts6p
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/ng.3950
+  title: "Reconstruction of enhancer\u2013target networks in 935 samples of human\
+    \ primary cells, tissues and cell lines"
+  authors:
+  - Qin Cao
+  - Christine Anyansi
+  - Xihao Hu
+  - Liangliang Xu
+  - Lei Xiong
+  - Wenshu Tang
+  - Myth T S Mok
+  - Chao Cheng
+  - Xiaodan Fan
+  - Mark Gerstein
+  - Alfred S L Cheng
+  - Kevin Y Yip
+  publisher: Nature Genetics
+  date: '2017-09-04'
+  link: https://doi.org/gb2r5p
+  orcid: 0000-0003-2345-6951
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s12864-017-4071-1
+  title: 'START: a system for flexible analysis of hundreds of genomic signal tracks
+    in few lines of SQL-like queries'
+  authors:
+  - Xinjie Zhu
+  - Qiang Zhang
+  - Eric Dun Ho
+  - Ken Hung-On Yu
+  - Chris Liu
+  - Tim H. Huang
+  - Alfred Sze-Lok Cheng
+  - Ben Kao
+  - Eric Lo
+  - Kevin Y. Yip
+  publisher: BMC Genomics
+  date: '2017-09-22'
+  link: https://doi.org/gr2rv8
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/onc.2017.257
+  title: TEAD1/4 exerts oncogenic role and is negatively regulated by miR-4269 in
+    gastric tumorigenesis
+  authors:
+  - Y Zhou
+  - T Huang
+  - J Zhang
+  - C C Wong
+  - B Zhang
+  - Y Dong
+  - F Wu
+  - J H M Tong
+  - W K K Wu
+  - A S L Cheng
+  - J Yu
+  - W Kang
+  - K F To
+  publisher: Oncogene
+  date: '2017-07-31'
+  link: https://doi.org/gbp4pg
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/path.4976
+  title: The CCCTC-binding factor (CTCF)-forkhead box protein M1 axis regulates tumour
+    growth and metastasis in hepatocellular carcinoma
+  authors:
+  - Bin Zhang
+  - Yajing Zhang
+  - Xiaoping Zou
+  - Anthony WH Chan
+  - Rui Zhang
+  - Terence Kin-Wah Lee
+  - Hang Liu
+  - Eunice Yuen-Ting Lau
+  - Nicole Pui-Yu Ho
+  - Paul BS Lai
+  - Yue-Sun Cheung
+  - Ka-Fai To
+  - Hoi Kin Wong
+  - Kwong Wai Choy
+  - Vincent W Keng
+  - Larry MC Chow
+  - Kenrick KY Chan
+  - Alfred S Cheng
+  - Ben CB Ko
+  publisher: The Journal of Pathology
+  date: '2017-10-27'
+  link: https://doi.org/gmhrbw
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/onc.2017.38
+  title: "The anti-diabetic drug exenatide, a glucagon-like peptide-1 receptor agonist,\
+    \ counteracts hepatocarcinogenesis through cAMP\u2013PKA\u2013EGFR\u2013STAT3\
+    \ axis"
+  authors:
+  - M Zhou
+  - M T S Mok
+  - H Sun
+  - A W Chan
+  - Y Huang
+  - A S L Cheng
+  - G Xu
+  publisher: Oncogene
+  date: '2017-03-20'
+  link: https://doi.org/f9vmzs
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/ijms18020450
+  title: The Interplay of LncRNA-H19 and Its Binding Partners in Physiological Process
+    and Gastric Carcinogenesis
+  authors:
+  - Li Zhang
+  - Yuhang Zhou
+  - Tingting Huang
+  - Alfred Cheng
+  - Jun Yu
+  - Wei Kang
+  - Ka To
+  publisher: International Journal of Molecular Sciences
+  date: '2017-02-20'
+  link: https://doi.org/f9xg6h
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/path.4832
+  title: 'Understanding the epigenetic regulation of tumours and their microenvironments:
+    opportunities and problems for epigenetic therapy'
+  authors:
+  - Man Liu
+  - Jingying Zhou
+  - Zhiwei Chen
+  - "Alfred Sze\u2010Lok Cheng"
+  publisher: The Journal of Pathology
+  date: '2016-11-29'
+  link: https://doi.org/gmjrgw
+  orcid: 0000-0003-2345-6951
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.18632/oncotarget.8209
+  title: C-terminal truncated hepatitis B virus X protein promotes hepatocellular
+    carcinogenesis through induction of cancer and stem cell-like properties
+  authors:
+  - Kai-Yu Ng
+  - Stella Chai
+  - Man Tong
+  - Xin-Yuan Guan
+  - Chi-Ho Lin
+  - Yick-Pang Ching
+  - Dan Xie
+  - Alfred Sze-Lok Cheng
+  - Stephanie Ma
+  publisher: Oncotarget
+  date: '2016-03-19'
+  link: https://doi.org/gr2rv9
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21037/atm.2016.03.01
+  title: "A novel role of hepatic epithelial transforming growth factor-\u03B2 signaling\
+    \ in cholangiocarcinogenesis"
+  authors:
+  - Man Liu
+  - Myth T. S. Mok
+  - Alfred S. L. Cheng
+  publisher: Annals of Translational Medicine
+  date: '2016-03-01'
+  link: https://doi.org/gr2rwb
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21037/tcr.2016.12.34
+  title: "A transcriptional-microRNA network for \u03B2-catenin-driven stemness in\
+    \ hepatocellular carcinoma"
+  authors:
+  - William K. K. Wu
+  - Matthew T. V. Chan
+  - Alfred S. L. Cheng
+  publisher: Translational Cancer Research
+  date: '2016-12-01'
+  link: https://doi.org/gr2rwc
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/path.4731
+  title: "Combinatorial epigenetic deregulation by <i>Helicobacter pylori</i>\n and\
+    \ Epstein-Barr virus infections in gastric tumourigenesis"
+  authors:
+  - William KK Wu
+  - Jun Yu
+  - Matthew TV Chan
+  - Ka F To
+  - Alfred SL Cheng
+  publisher: The Journal of Pathology
+  date: '2016-05-20'
+  link: https://doi.org/gr2rwd
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/ecco-jcc/jjw020
+  title: Dysregulated Lysine Acetyltransferase 2B Promotes Inflammatory Bowel Disease
+    Pathogenesis Through Transcriptional Repression of Interleukin-10
+  authors:
+  - Alfa H. C. Bai
+  - William K. K. Wu
+  - Liangliang Xu
+  - Sunny H. Wong
+  - Minnie Y. Go
+  - Anthony W. H. Chan
+  - Marcus Harbord
+  - Shenghong Zhang
+  - Minhu Chen
+  - Justin C. Y. Wu
+  - Michael W. Y. Chan
+  - Matthew T. V. Chan
+  - Francis K. L. Chan
+  - Joseph J. Y. Sung
+  - Jun Yu
+  - Alfred S. L. Cheng
+  - Siew C. Ng
+  publisher: Journal of Crohn's and Colitis
+  date: '2016-01-22'
+  link: https://doi.org/gr2rwf
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3748/wjg.v22.i3.1279
+  title: Emerging role of Hippo pathway in gastric and other gastrointestinal cancers
+  authors:
+  - Wei Kang
+  publisher: World Journal of Gastroenterology
+  date: '2016-01-01'
+  link: https://doi.org/f77qfz
+  orcid: 0000-0003-2345-6951
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/cancers8080076
+  title: "Epigenetic Activation of Wnt/\u03B2-Catenin Signaling in NAFLD-Associated\
+    \ Hepatocarcinogenesis"
+  authors:
+  - Yuan Tian
+  - Myth Mok
+  - Pengyuan Yang
+  - Alfred Cheng
+  publisher: Cancers
+  date: '2016-08-20'
+  link: https://doi.org/ghxx3s
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/onc.2015.276
+  title: Epigenetic silencing of GDF1 disrupts SMAD signaling to reinforce gastric
+    cancer development
+  authors:
+  - W Yang
+  - M T S Mok
+  - M S M Li
+  - W Kang
+  - H Wang
+  - A W Chan
+  - J-L Chou
+  - J Chen
+  - E K W Ng
+  - K-F To
+  - J Yu
+  - M W Y Chan
+  - F K L Chan
+  - J J Y Sung
+  - A S L Cheng
+  publisher: Oncogene
+  date: '2015-07-27'
+  link: https://doi.org/f8nkt5
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/srep31690
+  title: Epigenetic silencing of the NR4A3 tumor suppressor, by aberrant JAK/STAT
+    signaling, predicts prognosis in gastric cancer
+  authors:
+  - Chung-Min Yeh
+  - Liang-Yu Chang
+  - Shu-Hui Lin
+  - Jian-Liang Chou
+  - Hsiao-Yen Hsieh
+  - Li-Han Zeng
+  - Sheng-Yu Chuang
+  - Hsiao-Wen Wang
+  - Claudia Dittner
+  - Cheng-Yu Lin
+  - Jora M. J. Lin
+  - Yao-Ting Huang
+  - Enders K. W. Ng
+  - Alfred S. L. Cheng
+  - Shu-Fen Wu
+  - Jiayuh Lin
+  - Kun-Tu Yeh
+  - Michael W. Y. Chan
+  publisher: Scientific Reports
+  date: '2016-08-16'
+  link: https://doi.org/f9ksbt
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fgene.2016.00168
+  title: Gender Differences in Adipocyte Metabolism and Liver Cancer Progression
+  authors:
+  - Otto K.-W. Cheung
+  - Alfred S.-L. Cheng
+  publisher: Frontiers in Genetics
+  date: '2016-09-20'
+  link: https://doi.org/gr2rwg
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12943-016-0566-7
+  title: 'NOTCH receptors in gastric and other gastrointestinal cancers: oncogenes
+    or tumor suppressors?'
+  authors:
+  - Tingting Huang
+  - Yuhang Zhou
+  - Alfred S. L. Cheng
+  - Jun Yu
+  - Ka Fai To
+  - Wei Kang
+  publisher: Molecular Cancer
+  date: '2016-12-01'
+  link: https://doi.org/gr2rwh
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/ijms17010138
+  title: The TEAD Family and Its Oncogenic Role in Promoting Tumorigenesis
+  authors:
+  - Yuhang Zhou
+  - Tingting Huang
+  - Alfred Cheng
+  - Jun Yu
+  - Wei Kang
+  - Ka To
+  publisher: International Journal of Molecular Sciences
+  date: '2016-01-21'
+  link: https://doi.org/f8prdk
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/path.4688
+  title: "Yin Yang 1\u2010mediated epigenetic silencing of tumour\u2010suppressive\
+    \ microRNAs activates nuclear factor\u2010\u03BAB in hepatocellular carcinoma"
+  authors:
+  - Daisy PF Tsang
+  - William KK Wu
+  - Wei Kang
+  - "Ying\u2010Ying Lee"
+  - Feng Wu
+  - Zhuo Yu
+  - Lei Xiong
+  - Anthony W Chan
+  - Joanna H Tong
+  - Weiqin Yang
+  - May SM Li
+  - Suki S Lau
+  - Xiangchun Li
+  - "Sau\u2010Dan Lee"
+  - Yihua Yang
+  - Paul BS Lai
+  - "Dae\u2010Yeul Yu"
+  - Gang Xu
+  - "Kwok\u2010Wai Lo"
+  - Matthew TV Chan
+  - Huating Wang
+  - Tin L Lee
+  - Jun Yu
+  - Nathalie Wong
+  - Kevin Y Yip
+  - "Ka\u2010Fai To"
+  - Alfred SL Cheng
+  publisher: The Journal of Pathology
+  date: '2016-03-17'
+  link: https://doi.org/gr2rwj
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12943-016-0493-7
+  title: "miR-508-3p concordantly silences NFKB1 and RELA to inactivate canonical\
+    \ NF-\u03BAB signaling in gastric carcinogenesis"
+  authors:
+  - Tingting Huang
+  - Wei Kang
+  - Bin Zhang
+  - Feng Wu
+  - Yujuan Dong
+  - Joanna H. M. Tong
+  - Weiqin Yang
+  - Yuhang Zhou
+  - Li Zhang
+  - Alfred S. L. Cheng
+  - Jun Yu
+  - Ka Fai To
+  publisher: Molecular Cancer
+  date: '2016-01-22'
+  link: https://doi.org/gr2rwk
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jhep.2014.11.040
+  title: A CCRK-EZH2 epigenetic circuitry drives hepatocarcinogenesis and associates
+    with tumor recurrence and poor survival of patients
+  authors:
+  - Hai Feng
+  - Zhuo Yu
+  - Yuan Tian
+  - Ying-Ying Lee
+  - May S. Li
+  - Minnie Y.Y. Go
+  - Yue-Sun Cheung
+  - Paul B.S. Lai
+  - Andrew M.L. Chan
+  - Ka-Fai To
+  - Henry L.Y. Chan
+  - Joseph J.Y. Sung
+  - Alfred S.L. Cheng
+  publisher: Journal of Hepatology
+  date: '2015-05-01'
+  link: https://doi.org/f27gkv
+  orcid: 0000-0003-2345-6951
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0168827814009179-fx1_lrg.jpg
+- id: doi:10.1002/jcp.24967
+  title: "Autophagy Mediates HBx\u2010Induced Nuclear Factor\u2010\u03BAB Activation\
+    \ and Release of IL\u20106, IL\u20108, and CXCL2 in Hepatocytes"
+  authors:
+  - Millore X.M. Luo
+  - Sunny H. Wong
+  - Matthew T.V. Chan
+  - Le Yu
+  - Sidney S.B. Yu
+  - Feng Wu
+  - Zhangang Xiao
+  - Xiaojuan Wang
+  - Lin Zhang
+  - Alfred S.L. Cheng
+  - Simon S.M. Ng
+  - Francis K.L. Chan
+  - Chi H. Cho
+  - Jun Yu
+  - Joseph J.Y. Sung
+  - William K.K. Wu
+  publisher: Journal of Cellular Physiology
+  date: '2015-06-23'
+  link: https://doi.org/gqxhf9
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/path.4512
+  title: "<scp>CUL4B</scp>: a novel epigenetic driver in Wnt/\u03B2\u2010catenin\u2010\
+    dependent hepatocarcinogenesis"
+  authors:
+  - Myth T.S. Mok
+  - Alfred S.L. Cheng
+  publisher: The Journal of Pathology
+  date: '2015-03-03'
+  link: https://doi.org/gr2rwm
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.CAN-14-1301
+  title: "Epigenetic Silencing of miR-490-3p Reactivates the Chromatin Remodeler SMARCD1\
+    \ to Promote<i>Helicobacter pylori</i>\u2013Induced Gastric Carcinogenesis"
+  authors:
+  - Jing Shen
+  - Zhangang Xiao
+  - William K.K. Wu
+  - Maggie H. Wang
+  - Ka F. To
+  - Yangchao Chen
+  - Weiqin Yang
+  - May S.M. Li
+  - Vivian Y. Shin
+  - Joanna H. Tong
+  - Wei Kang
+  - Lin Zhang
+  - Minxing Li
+  - Lin Wang
+  - Lan Lu
+  - Ruby L.Y. Chan
+  - Sunny H. Wong
+  - Jun Yu
+  - Matthew T.V. Chan
+  - Francis K.L. Chan
+  - Joseph J.Y. Sung
+  - Alfred S.L. Cheng
+  - Chi H. Cho
+  publisher: Cancer Research
+  date: '2015-02-15'
+  link: https://doi.org/f62sk8
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0131750
+  title: 'Correction: FK-16 Derived from the Anticancer Peptide LL-37 Induces Caspase-Independent
+    Apoptosis and Autophagic Cell Death in Colon Cancer Cells'
+  authors:
+  - Shun X. Ren
+  - Jin Shen
+  - Alfred S. L. Cheng
+  - Lan Lu
+  - Ruby L. Y. Chan
+  - Zhi J. Li
+  - Xiao J. Wang
+  - Clover C. M. Wong
+  - Lin Zhang
+  - Simon S. M. Ng
+  - Franky L. Chan
+  - Francis K. L. Chan
+  - Jun Yu
+  - Joseph J. Y. Sung
+  - William K. K. Wu
+  - Chi H. Cho
+  publisher: PLOS ONE
+  date: '2015-06-25'
+  link: https://doi.org/gr2rwn
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.CAN-14-3786
+  title: "Histone Deacetylase HDAC8 Promotes Insulin Resistance and \u03B2-Catenin\
+    \ Activation in NAFLD-Associated Hepatocellular Carcinoma"
+  authors:
+  - Yuan Tian
+  - Vincent W.S. Wong
+  - Grace L.H. Wong
+  - Weiqin Yang
+  - Hanyong Sun
+  - Jiayun Shen
+  - Joanna H.M. Tong
+  - Minnie Y.Y. Go
+  - Yue S. Cheung
+  - Paul B.S. Lai
+  - Mingyan Zhou
+  - Gang Xu
+  - Tim H.M. Huang
+  - Jun Yu
+  - Ka F. To
+  - Alfred S.L. Cheng
+  - Henry L.Y. Chan
+  publisher: Cancer Research
+  date: '2015-11-15'
+  link: https://doi.org/f72j8v
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.canlet.2014.10.016
+  title: "Proton pump inhibitor pantoprazole abrogates adriamycin-resistant gastric\
+    \ cancer cell invasiveness via suppression of Akt/GSK-\u03B2/\u03B2-catenin signaling\
+    \ and epithelial\u2013mesenchymal transition"
+  authors:
+  - Bin Zhang
+  - Yan Yang
+  - Xiaoting Shi
+  - Wanyu Liao
+  - Min Chen
+  - Alfred Sze-Lok Cheng
+  - Hongli Yan
+  - Cheng Fang
+  - Shu Zhang
+  - Guifang Xu
+  - Shanshan Shen
+  - Shuling Huang
+  - Guangxia Chen
+  - Ying Lv
+  - Tingsheng Ling
+  - Xiaoqi Zhang
+  - Lei Wang
+  - Yuzheng Zhuge
+  - Xiaoping Zou
+  publisher: Cancer Letters
+  date: '2015-01-01'
+  link: https://doi.org/f8k9t6
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.13188/2377-9292.1000010
+  title: Rectifying the Epigenetic Field Defect in Gastric Carcinogenesis
+  authors: []
+  publisher: Journal of Cancer Sciences
+  date: '2015-01-01'
+  link: https://doi.org/gr2rwp
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12943-015-0323-3
+  title: Targeting of YAP1 by microRNA-15a and microRNA-16-1 exerts tumor suppressor
+    function in gastric adenocarcinoma
+  authors:
+  - Wei Kang
+  - Joanna HM Tong
+  - Raymond WM Lung
+  - Yujuan Dong
+  - Junhong Zhao
+  - Qiaoyi Liang
+  - Li Zhang
+  - Yi Pan
+  - Weiqin Yang
+  - Jesse CS Pang
+  - Alfred SL Cheng
+  - Jun Yu
+  - Ka Fai To
+  publisher: Molecular Cancer
+  date: '2015-02-22'
+  link: https://doi.org/f63v8t
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12885-015-1984-4
+  title: The emerging role of Slit-Robo pathway in gastric and other gastro intestinal
+    cancers
+  authors:
+  - Tingting Huang
+  - Wei Kang
+  - Alfred S. L. Cheng
+  - Jun Yu
+  - Ka Fai To
+  publisher: BMC Cancer
+  date: '2015-12-01'
+  link: https://doi.org/f73cb6
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/path.4554
+  title: "Truncated <scp>HBx</scp>\u2010dependent silencing of <scp>GAS2</scp> promotes\
+    \ hepatocarcinogenesis through deregulation of cell cycle, senescence and p53\u2010\
+    mediated apoptosis"
+  authors:
+  - Ranxu Zhu
+  - Myth TS Mok
+  - Wei Kang
+  - Suki SK Lau
+  - "Wing\u2010Kit Yip"
+  - Yangchao Chen
+  - Paul BS Lai
+  - Vincent WS Wong
+  - "Ka\u2010Fai To"
+  - Joseph JY Sung
+  - Alfred SL Cheng
+  - Henry LY Chan
+  publisher: The Journal of Pathology
+  date: '2015-05-28'
+  link: https://doi.org/gr2rwq
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:24812603
+  title: Dissecting the pleiotropic actions of HBx mutants against hypoxia in hepatocellular
+    carcinoma.
+  authors:
+  - Ying-Ying Lee
+  - Myth T S Mok
+  - Alfred Sze-Lok Cheng
+  publisher: Hepatobiliary surgery and nutrition
+  date: '2014-04-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24812603
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1136/gutjnl-2013-305584
+  title: Cell cycle-related kinase mediates viral-host signalling to promote hepatitis
+    B virus-associated hepatocarcinogenesis
+  authors:
+  - Zhuo Yu
+  - Yue-Qiu Gao
+  - Hai Feng
+  - Ying-Ying Lee
+  - May S Li
+  - Yuan Tian
+  - Minnie Y Y Go
+  - Dae-Yeul Yu
+  - Yue-Sun Cheung
+  - Paul B S Lai
+  - Jun Yu
+  - Vincent W S Wong
+  - Joseph J Y Sung
+  - Henry L Y Chan
+  - Alfred S L Cheng
+  publisher: Gut
+  date: '2014-01-17'
+  link: https://doi.org/f6nctd
+  orcid: 0000-0003-2345-6951
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: https://gut.bmj.com/content/gutjnl/63/11/1793/F8.large.jpg?width=800&height=600&carousel=1
+- id: doi:10.1371/journal.pone.0084931
+  title: Depletion of Sirtuin 1 (SIRT1) Leads to Epigenetic Modifications of Telomerase
+    (TERT) Gene in Hepatocellular Carcinoma Cells
+  authors:
+  - Bin Zhang
+  - Juan Chen
+  - Alfred S. L. Cheng
+  - Ben C. B. Ko
+  publisher: PLoS ONE
+  date: '2014-01-08'
+  link: https://doi.org/f5r8t7
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.18632/oncoscience.62
+  title: Helicobacter pylori-induced STAT3 activation and signalling network in gastric
+    cancer
+  authors:
+  - Junhong Zhao
+  - Yujuan Dong
+  - Wei Kang
+  - Minnie Y. Go
+  - Joanna HM. Tong
+  - Enders KW. Ng
+  - Philip WY. Chiu
+  - Alfred SL. Cheng
+  - Ka Fai To
+  - Joseph JY. Sung
+  - Jun Yu
+  publisher: Oncoscience
+  date: '2014-07-03'
+  link: https://doi.org/gr2rwt
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12967-014-0281-3
+  title: let-7b/g silencing activates AKT signaling to promote gastric carcinogenesis
+  authors:
+  - Wei Kang
+  - Joanna HM Tong
+  - Raymond WM Lung
+  - Yujuan Dong
+  - Weiqin Yang
+  - Yi Pan
+  - Kin Mang Lau
+  - Jun Yu
+  - Alfred SL Cheng
+  - Ka Fai To
+  publisher: Journal of Translational Medicine
+  date: '2014-10-05'
+  link: https://doi.org/f6qk3b
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3892/or.2014.3094
+  title: MCM7 serves as a prognostic marker in diffuse-type gastric adenocarcinoma
+    and siRNA-mediated knockdown suppresses its oncogenic function
+  authors:
+  - WEI KANG
+  - JOANNA H.M. TONG
+  - ANTHONY W.H. CHAN
+  - ALFRED S.L. CHENG
+  - JUN YU
+  - KAFAI TO
+  publisher: Oncology Reports
+  date: '2014-03-19'
+  link: https://doi.org/f533zv
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3892/or.2014.3148
+  title: Targeting ribonucleotide reductase M2 subunit by small interfering RNA exerts
+    anti-oncogenic effects in gastric adenocarcinoma
+  authors:
+  - WEI KANG
+  - JOANNA H.M. TONG
+  - ANTHONY W.H. CHAN
+  - JUNHONG ZHAO
+  - SHIYAN WANG
+  - YUJUAN DONG
+  - FRANKIE M.C. SIN
+  - SAIFUNG YEUNG
+  - ALFRED S.L. CHENG
+  - JUN YU
+  - KAFAI TO
+  publisher: Oncology Reports
+  date: '2014-04-23'
+  link: https://doi.org/f545mm
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2174/0929867321666140205135351
+  title: The Janus Face of Cathelicidin in Tumorigenesis
+  authors:
+  - W.K.K. Wu
+  - J.J.Y. Sung
+  - A.S.L. Cheng
+  - F.K.L. Chan
+  - S.S.M. Ng
+  - K.F. To
+  - X.J. Wang
+  - L. Zhang
+  - S.H. Wong
+  - J. Yu
+  - C.H. Cho
+  publisher: Current Medicinal Chemistry
+  date: '2014-05-11'
+  link: https://doi.org/gr2rww
+  orcid: 0000-0003-2345-6951
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.biocel.2014.09.027
+  title: The ubiquitin ligases RNF8 and RNF168 display rapid but distinct dynamics
+    at DNA repair foci in living cells
+  authors:
+  - Myth T.S. Mok
+  - Alfred S.L. Cheng
+  - Beric R. Henderson
+  publisher: The International Journal of Biochemistry &amp; Cell Biology
+  date: '2014-12-01'
+  link: https://doi.org/f6wjh7
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1479-5876-12-80
+  title: Yin Yang 1 contributes to gastric carcinogenesis and its nuclear expression
+    correlates with shorter survival in patients with early stage gastric adenocarcinoma
+  authors:
+  - Wei Kang
+  - Joanna HM Tong
+  - Anthony WH Chan
+  - Junhong Zhao
+  - Yujuan Dong
+  - Shiyan Wang
+  - Weiqin Yang
+  - Frankie MC Sin
+  - Simon SM Ng
+  - Jun Yu
+  - Alfred SL Cheng
+  - Ka Fai To
+  publisher: Journal of Translational Medicine
+  date: '2014-03-28'
+  link: https://doi.org/f545dq
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4161/auto.25573
+  title: A novel crosstalk between two major protein degradation systems
+  authors:
+  - Xiao J Wang
+  - Jun Yu
+  - Sunny H Wong
+  - Alfred SL Cheng
+  - Francis KL Chan
+  - Simon SM Ng
+  - Chi H Cho
+  - Joseph JY Sung
+  - William KK Wu
+  publisher: Autophagy
+  date: '2013-10-25'
+  link: https://doi.org/grzcnn
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/jgh.12090
+  title: "Alliance of epigenetic forces for the activation of oncogenic <scp>W</scp>nt/\u03B2\
+    \u2010catenin signaling"
+  authors:
+  - Alfa HC Bai
+  - Alfred SL Cheng
+  publisher: Journal of Gastroenterology and Hepatology
+  date: '2013-02-26'
+  link: https://doi.org/gr2rwx
+  orcid: 0000-0003-2345-6951
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/cncr.27865
+  title: "CITED2 is a novel direct effector of peroxisome proliferator\u2010activated\
+    \ receptor \u03B3 in suppressing hepatocellular carcinoma cell growth"
+  authors:
+  - "Kin\u2010Fai Cheung"
+  - Junhong Zhao
+  - Ying Hao
+  - Xiaoxing Li
+  - Anson W. Lowe
+  - Alfred S. L. Cheng
+  - Joseph J. Y. Sung
+  - Jun Yu
+  publisher: Cancer
+  date: '2012-12-04'
+  link: https://doi.org/f4p54g
+  orcid: 0000-0003-2345-6951
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/gt.2012.92
+  title: Cathelicidin protects against Helicobacter pylori colonization and the associated
+    gastritis in mice
+  authors:
+  - L Zhang
+  - J Yu
+  - C C M Wong
+  - T K W Ling
+  - Z J Li
+  - K M Chan
+  - S X Ren
+  - J Shen
+  - R L Y Chan
+  - C C Lee
+  - M S M Li
+  - A S L Cheng
+  - K F To
+  - R L Gallo
+  - J J Y Sung
+  - W K K Wu
+  - C H Cho
+  publisher: Gene Therapy
+  date: '2012-12-20'
+  link: https://doi.org/f49rfj
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.critrevonc.2012.11.009
+  title: Dysregulation and crosstalk of cellular signaling pathways in colon carcinogenesis
+  authors:
+  - William K.K. Wu
+  - Xiao J. Wang
+  - Alfred S.L. Cheng
+  - Millore X.M. Luo
+  - Simon S.M. Ng
+  - Ka F. To
+  - Francis K.L. Chan
+  - Chi H. Cho
+  - Joseph J.Y. Sung
+  - Jun Yu
+  publisher: Critical Reviews in Oncology/Hematology
+  date: '2013-06-01'
+  link: https://doi.org/ghkrkw
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.semcancer.2013.08.010
+  title: Epigenetic regulation of hepatocellular carcinoma in non-alcoholic fatty
+    liver disease
+  authors:
+  - Yuan Tian
+  - Vincent Wai-Sun Wong
+  - Henry Lik-Yuen Chan
+  - Alfred Sze-Lok Cheng
+  publisher: Seminars in Cancer Biology
+  date: '2013-12-01'
+  link: https://doi.org/f5mnth
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0063641
+  title: FK-16 Derived from the Anticancer Peptide LL-37 Induces Caspase-Independent
+    Apoptosis and Autophagic Cell Death in Colon Cancer Cells
+  authors:
+  - Shun X. Ren
+  - Jin Shen
+  - Alfred S. L. Cheng
+  - Lan Lu
+  - Ruby L. Y. Chan
+  - Zhi J. Li
+  - Xiao J. Wang
+  - Clover C. M. Wong
+  - Lin Zhang
+  - Simon S. M. Ng
+  - Franky L. Chan
+  - Francis K. L. Chan
+  - Jun Yu
+  - Joseph J. Y. Sung
+  - William K. K. Wu
+  - Chi H. Cho
+  publisher: PLoS ONE
+  date: '2013-05-20'
+  link: https://doi.org/f4xg72
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.febslet.2013.01.018
+  title: "Full\u2010length Mst1 exhibits growth promoting function in human hepatocellular\
+    \ carcinoma cells"
+  authors:
+  - Yuen-Keng Ng
+  - Wing-Sze Lau
+  - Vivian Wai Yan Lui
+  - Alfred Sze-Lok Cheng
+  - Patrick Kwok-Shing Ng
+  - Stephen Kwok-Wing Tsui
+  - Yue Sun Cheung
+  - Paul Bo San Lai
+  publisher: FEBS Letters
+  date: '2013-01-21'
+  link: https://doi.org/f4pj9s
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1053/j.gastro.2012.10.002
+  title: Helicobacter pylori Causes Epigenetic Dysregulation of FOXD3 to Promote Gastric
+    Carcinogenesis
+  authors:
+  - Alfred S.L. Cheng
+  - May S. Li
+  - Wei Kang
+  - Victoria Y. Cheng
+  - "Jian\u2013Liang Chou"
+  - Suki S. Lau
+  - Minnie Y. Go
+  - Ching C. Lee
+  - Thomas K. Ling
+  - Enders K. Ng
+  - Jun Yu
+  - Tim H. Huang
+  - Ka F. To
+  - Michael W. Chan
+  - Joseph J.Y. Sung
+  - Francis K.L. Chan
+  publisher: Gastroenterology
+  date: '2013-01-01'
+  link: https://doi.org/f2jxwh
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cncr.26189
+  title: Characterization of the gene structure, functional significance, and clinical
+    application of <i>RNF180</i>, a novel gene in gastric cancer
+  authors:
+  - "Kin\u2010Fai Cheung"
+  - Cleo N. Y. Lam
+  - Kaichun Wu
+  - Enders K. O. Ng
+  - Wilson W. S. Chong
+  - Alfred S. L. Cheng
+  - "Ka\u2010Fai To"
+  - Daiming Fan
+  - Joseph J. Y. Sung
+  - Jun Yu
+  publisher: Cancer
+  date: '2011-06-29'
+  link: https://doi.org/dfkgkc
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/onc.2011.511
+  title: Epigenetic inactivation of paired box gene 5, a novel tumor suppressor gene,
+    through direct upregulation of p53 is associated with prognosis in gastric cancer
+    patients
+  authors:
+  - X Li
+  - K F Cheung
+  - X Ma
+  - L Tian
+  - J Zhao
+  - M Y Y Go
+  - B Shen
+  - A S L Cheng
+  - J Ying
+  - Q Tao
+  - J J Y Sung
+  - H-f Kung
+  - J Yu
+  publisher: Oncogene
+  date: '2011-11-21'
+  link: https://doi.org/b68tmb
+  orcid: 0000-0003-2345-6951
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1158/0008-5472.CAN-12-2359
+  title: Host Immune Defense Peptide LL-37 Activates Caspase-Independent Apoptosis
+    and Suppresses Colon Cancer
+  authors:
+  - Shun X. Ren
+  - Alfred S.L. Cheng
+  - Ka F. To
+  - Joanna H.M. Tong
+  - May S. Li
+  - Jin Shen
+  - Clover C.M. Wong
+  - Lin Zhang
+  - Ruby L.Y. Chan
+  - Xiao J. Wang
+  - Simon S.M. Ng
+  - Lawrence C.M. Chiu
+  - Victor E. Marquez
+  - Richard L. Gallo
+  - Francis K.L. Chan
+  - Jun Yu
+  - Joseph J.Y. Sung
+  - William K.K. Wu
+  - Chi H. Cho
+  publisher: Cancer Research
+  date: '2012-12-15'
+  link: https://doi.org/gr2rwz
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0037572
+  title: Hydrogen Sulfide Lowers Proliferation and Induces Protective Autophagy in
+    Colon Epithelial Cells
+  authors:
+  - Ya C. Wu
+  - Xiao J. Wang
+  - Le Yu
+  - Francis K. L. Chan
+  - Alfred S. L. Cheng
+  - Jun Yu
+  - Joseph J. Y. Sung
+  - William K. K. Wu
+  - Chi H. Cho
+  publisher: PLoS ONE
+  date: '2012-05-29'
+  link: https://doi.org/gr2rw2
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00401-011-0934-8
+  title: Overexpression of HMGA1 deregulates tumor growth via cdc25A and alters migration/invasion
+    through a cdc25A-independent pathway in medulloblastoma
+  authors:
+  - Kin-Mang Lau
+  - Queeny Kwan Yi Chan
+  - Jesse C. S. Pang
+  - Fanny Man-Ting Ma
+  - Kay K. W. Li
+  - Walter Wai Yeung
+  - Alfred S. L. Cheng
+  - Hai Feng
+  - Nellie Y. F. Chung
+  - Hiu-Ming Li
+  - Liangfu Zhou
+  - Yin Wang
+  - Ying Mao
+  - Ho-Keung Ng
+  publisher: Acta Neuropathologica
+  date: '2012-01-17'
+  link: https://doi.org/fx3m97
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0033919
+  title: Stathmin1 Plays Oncogenic Role and Is a Target of MicroRNA-223 in Gastric
+    Cancer
+  authors:
+  - Wei Kang
+  - Joanna H. M. Tong
+  - Anthony W. H. Chan
+  - Raymond W. M. Lung
+  - Shuk Ling Chau
+  - Queenie W. L. Wong
+  - Nathalie Wong
+  - Jun Yu
+  - Alfred S. L. Cheng
+  - Ka Fai To
+  publisher: PLoS ONE
+  date: '2012-03-28'
+  link: https://doi.org/gr2rw4
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2174/978160805072711201010021
+  title: Viral Associated Hepatocellular Carcinoma
+  authors: []
+  publisher: Molecular Aspects of Hepatocellular Carcinoma
+  date: '2012-03-11'
+  link: https://doi.org/gr2rw5
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0022888
+  title: Carboxyl-Terminal Truncated HBx Regulates a Distinct MicroRNA Transcription
+    Program in Hepatocellular Carcinoma Development
+  authors:
+  - Wing-Kit Yip
+  - Alfred Sze-Lok Cheng
+  - Ranxu Zhu
+  - Raymond Wai-Ming Lung
+  - Daisy Pui-Fong Tsang
+  - Suki Shuk-Kei Lau
+  - Yangchao Chen
+  - Jonathan Gabriel Sung
+  - Paul Bo-San Lai
+  - Enders Kai-On Ng
+  - Jun Yu
+  - Nathalie Wong
+  - Ka-Fai To
+  - Vincent Wai-Sun Wong
+  - Joseph Jao-Yiu Sung
+  - Henry Lik-Yuen Chan
+  publisher: PLoS ONE
+  date: '2011-08-04'
+  link: https://doi.org/fhfzgs
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1172/JCI45967
+  title: "Cell cycle\u2013related kinase is a direct androgen receptor\u2013regulated\
+    \ gene that drives \u03B2-catenin/T cell factor\u2013dependent hepatocarcinogenesis"
+  authors:
+  - Hai Feng
+  - Alfred S.L. Cheng
+  - Daisy P. Tsang
+  - May S. Li
+  - Minnie Y. Go
+  - Yue S. Cheung
+  - Gui-jun Zhao
+  - Samuel S. Ng
+  - Marie C. Lin
+  - Jun Yu
+  - Paul B. Lai
+  - Ka F. To
+  - Joseph J.Y. Sung
+  publisher: Journal of Clinical Investigation
+  date: '2011-08-01'
+  link: https://doi.org/ff9rxv
+  orcid: 0000-0003-2345-6951
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: https://dm5migu4zj3pb.cloudfront.net/manuscripts/45000/45967/large/JCI45967.f10.jpg
+- id: doi:10.1158/0008-5472.CAN-10-3342
+  title: "EZH2-Mediated Concordant Repression of Wnt Antagonists Promotes \u03B2-Catenin\u2013\
+    Dependent Hepatocarcinogenesis"
+  authors:
+  - Alfred S.L. Cheng
+  - Suki S. Lau
+  - Yangchao Chen
+  - Yutaka Kondo
+  - May S. Li
+  - Hai Feng
+  - Arthur K. Ching
+  - Kin F. Cheung
+  - Hoi K. Wong
+  - Joanna H. Tong
+  - Hongchuan Jin
+  - Kwong W. Choy
+  - Jun Yu
+  - Ka F. To
+  - Nathalie Wong
+  - Tim H.-M. Huang
+  - Joseph J.Y. Sung
+  publisher: Cancer Research
+  date: '2011-05-31'
+  link: https://doi.org/d93752
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1440-1746.2010.06447.x
+  title: 'Epigenetic regulation of signaling pathways in cancer: Role of the histone
+    methyltransferase EZH2'
+  authors:
+  - Daisy PF Tsang
+  - Alfred SL Cheng
+  publisher: Journal of Gastroenterology and Hepatology
+  date: '2010-12-22'
+  link: https://doi.org/b8xn65
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.CAN-10-3573
+  title: Epigenetic Silencing Mediated through Activated PI3K/AKT Signaling in Breast
+    Cancer
+  authors:
+  - Tao Zuo
+  - Ta-Ming Liu
+  - Xun Lan
+  - Yu-I Weng
+  - Rulong Shen
+  - Fei Gu
+  - Yi-Wen Huang
+  - Sandya Liyanarachchi
+  - Daniel E. Deatherage
+  - Pei-Yin Hsu
+  - Cenny Taslim
+  - Bhuvaneswari Ramaswamy
+  - Charles L. Shapiro
+  - Huey-Jen L. Lin
+  - Alfred S. L. Cheng
+  - Victor X. Jin
+  - Tim H.-M. Huang
+  publisher: Cancer Research
+  date: '2011-03-01'
+  link: https://doi.org/cngqhr
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/carcin/bgq240
+  title: "NF-\u03BAB targets miR-16 and miR-21 in gastric cancer: involvement of prostaglandin\
+    \ E receptors"
+  authors:
+  - Vivian Y. Shin
+  - Hongchuan Jin
+  - Enders K.O. Ng
+  - Alfred S.L. Cheng
+  - Wilson W.S. Chong
+  - Christine Y.P. Wong
+  - Wai K. Leung
+  - Joseph J.Y. Sung
+  - Kent-Man Chu
+  publisher: Carcinogenesis
+  date: '2010-11-15'
+  link: https://doi.org/dr2q3t
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/hep.23550
+  title: Inhibitory Role of Peroxisome Proliferator-Activated Receptor Gamma in Hepatocarcinogenesis
+    in Mice and in Vitro
+  authors:
+  - Jun Yu
+  - Bo Shen
+  - Eagle S. H. Chu
+  - Narci Teoh
+  - Kin-Fai Cheung
+  - Chung-Wah Wu
+  - Shiyan Wang
+  - Cleo N. Y. Lam
+  - Hai Feng
+  - Junhong Zhao
+  - Alfred S. L. Cheng
+  - Ka-Fai To
+  - Henry L. Y. Chan
+  - Joseph J. Y. Sung
+  publisher: Hepatology
+  date: '2010-06-01'
+  link: https://doi.org/c43868
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/ajg.2009.560
+  title: Interaction of Adipokines and Hepatitis B Virus on Histological Liver Injury
+    in the Chinese
+  authors:
+  - Vincent Wai-Sun Wong
+  - Grace Lai-Hung Wong
+  - Jun Yu
+  - Paul Cheung-Lung Choi
+  - Anthony Wing-Hung Chan
+  - Hoi-Yun Chan
+  - Eagle Siu-Hong Chu
+  - Alfred Sze-Lok Cheng
+  - Angel Mei-Ling Chim
+  - Francis Ka-Leung Chan
+  - Joseph Jao-Yiu Sung
+  - Henry Lik-Yuen Chan
+  publisher: American Journal of Gastroenterology
+  date: '2010-01-01'
+  link: https://doi.org/fc9f76
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/gt.2010.41
+  title: "PPAR\u03B3 is essential for protection against nonalcoholic steatohepatitis"
+  authors:
+  - C W Wu
+  - E S H Chu
+  - C N Y Lam
+  - A S L Cheng
+  - C W Lee
+  - V W S Wong
+  - J J Y Sung
+  - J Yu
+  publisher: Gene Therapy
+  date: '2010-04-08'
+  link: https://doi.org/cjkfrt
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0012479
+  title: 'TNF Inhibits Notch-1 in Skeletal Muscle Cells by Ezh2 and DNA Methylation
+    Mediated Repression: Implications in Duchenne Muscular Dystrophy'
+  authors:
+  - Swarnali Acharyya
+  - Sudarshana M. Sharma
+  - Alfred S. Cheng
+  - Katherine J. Ladner
+  - Wei He
+  - William Kline
+  - Huating Wang
+  - Michael C. Ostrowski
+  - Tim H. Huang
+  - Denis C. Guttridge
+  publisher: PLoS ONE
+  date: '2010-08-30'
+  link: https://doi.org/bkq2gw
+  orcid: 0000-0003-2345-6951
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/onc.2009.332
+  title: 'Warburg effect revisited: an epigenetic link between glycolysis and gastric
+    carcinogenesis'
+  authors:
+  - X Liu
+  - X Wang
+  - J Zhang
+  - E K Y Lam
+  - V Y Shin
+  - A S L Cheng
+  - J Yu
+  - F K L Chan
+  - J J Y Sung
+  - H C Jin
+  publisher: Oncogene
+  date: '2009-11-02'
+  link: https://doi.org/c3tk3g
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1752-0509-3-73
+  title: An integrative ChIP-chip and gene expression profiling to model SMAD regulatory
+    modules
+  authors:
+  - Huaxia Qin
+  - Michael WY Chan
+  - Sandya Liyanarachchi
+  - Curtis Balch
+  - Dustin Potter
+  - Irene J Souriraj
+  - Alfred SL Cheng
+  - Francisco J Agosto-Perez
+  - Elena V Nikonova
+  - Pearlly S Yan
+  - Huey-Jen Lin
+  - Kenneth P Nephew
+  - Joel H Saltz
+  - Louise C Showe
+  - Tim HM Huang
+  - Ramana V Davuluri
+  publisher: BMC Systems Biology
+  date: '2009-07-17'
+  link: https://doi.org/c7jgxx
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/ijc.24281
+  title: "High serum interleukin\u20106 level predicts future hepatocellular carcinoma\
+    \ development in patients with chronic hepatitis B"
+  authors:
+  - "Vincent Wai\u2010Sun Wong"
+  - Jun Yu
+  - "Alfred Sze\u2010Lok Cheng"
+  - "Grace Lai\u2010Hung Wong"
+  - "Hoi\u2010Yun Chan"
+  - "Eagle Siu\u2010Hong Chu"
+  - "Enders Kai\u2010On Ng"
+  - "Francis Ka\u2010Leung Chan"
+  - "Joseph Jao\u2010Yao Sung"
+  - "Henry Lik\u2010Yuen Chan"
+  publisher: International Journal of Cancer
+  date: '2009-03-06'
+  link: https://doi.org/djr4ff
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.CAN-08-4914
+  title: Xenoestrogen-Induced Epigenetic Repression of <i>microRNA-9-3</i> in Breast
+    Epithelial Cells
+  authors:
+  - Pei-Yin Hsu
+  - Daniel E. Deatherage
+  - Benjamin A.T. Rodriguez
+  - Sandya Liyanarachchi
+  - Yu-I Weng
+  - Tao Zuo
+  - Joseph Liu
+  - Alfred S.L. Cheng
+  - Tim H-M. Huang
+  publisher: Cancer Research
+  date: '2009-07-15'
+  link: https://doi.org/d5p343
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1593/neo.08540
+  title: "Aberrant Transforming Growth Factor \u03B21 Signaling and SMAD4 Nuclear\
+    \ Translocation Confer Epigenetic Repression of ADAM19 in Ovarian Cancer"
+  authors:
+  - Michael W.Y. Chan
+  - Yi-Wen Huang
+  - Corinna Hartman-Frey
+  - Chieh-Ti Kuo
+  - Daniel Deatherage
+  - Huaxia Qin
+  - Alfred S.L. Cheng
+  - Pearlly S. Yan
+  - Ramana V. Davuluri
+  - Tim H.-M. Huang
+  - Kenneth P. Nephew
+  - Huey-Jen L. Lin
+  publisher: Neoplasia
+  date: '2008-09-01'
+  link: https://doi.org/gjr7kk
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bbrc.2008.06.098
+  title: COX-2 mediates hepatitis B virus X protein abrogation of p53-induced apoptosis
+  authors:
+  - Alfred S.L. Cheng
+  - Jun Yu
+  - Paul B.S. Lai
+  - Henry L.Y. Chan
+  - Joseph J.Y. Sung
+  publisher: Biochemical and Biophysical Research Communications
+  date: '2008-09-01'
+  link: https://doi.org/d73c5k
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bbrc.2008.05.069
+  title: Elucidation of the role of COX-2 in liver fibrogenesis using transgenic mice
+  authors:
+  - Jun Yu
+  - Chung W. Wu
+  - Eagle S.H. Chu
+  - Alex Y. Hui
+  - Alfred S.L. Cheng
+  - Minnie Y.Y. Go
+  - Arthur K.K. Ching
+  - Yiu L. Chui
+  - Henry L.Y. Chan
+  - Joseph J.Y. Sung
+  publisher: Biochemical and Biophysical Research Communications
+  date: '2008-08-01'
+  link: https://doi.org/dgzdmt
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/carcin/bgn115
+  title: Epigenetic repression of the estrogen-regulated Homeobox B13 gene in breast
+    cancer
+  authors:
+  - Benjamin A.T. Rodriguez
+  - Alfred S.L. Cheng
+  - Pearlly S. Yan
+  - Dustin Potter
+  - Francisco J. Agosto-Perez
+  - Charles L. Shapiro
+  - Tim H.-M. Huang
+  publisher: Carcinogenesis
+  date: '2008-05-21'
+  link: https://doi.org/dnk5z7
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.CAN-07-5547
+  title: Epithelial Progeny of Estrogen-Exposed Breast Progenitor Cells Display a
+    Cancer-like Methylome
+  authors:
+  - Alfred S.L. Cheng
+  - "Aedi\u0301n C. Culhane"
+  - Michael W.Y. Chan
+  - Chinnambally R. Venkataramu
+  - Mathias Ehrich
+  - Aejaz Nasir
+  - Benjamin A.T. Rodriguez
+  - Joseph Liu
+  - Pearlly S. Yan
+  - John Quackenbush
+  - Kenneth P. Nephew
+  - Timothy J. Yeatman
+  - Tim H-M. Huang
+  publisher: Cancer Research
+  date: '2008-03-13'
+  link: https://doi.org/bntmmf
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/ng.159
+  title: Gene silencing in cancer by histone H3 lysine 27 trimethylation independent
+    of promoter DNA methylation
+  authors:
+  - Yutaka Kondo
+  - Lanlan Shen
+  - Alfred S Cheng
+  - Saira Ahmed
+  - Yanis Boumber
+  - Chantale Charo
+  - Tadanori Yamochi
+  - Takeshi Urano
+  - Koichi Furukawa
+  - Bernard Kwabi-Addo
+  - David L Gold
+  - Yoshitaka Sekido
+  - Tim Hui-Ming Huang
+  - Jean-Pierre J Issa
+  publisher: Nature Genetics
+  date: '2008-05-18'
+  link: https://doi.org/dj3qd9
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ccr.2008.10.006
+  title: "NF-\u03BAB\u2013YY1\u2013miR-29 Regulatory Circuitry in Skeletal Myogenesis\
+    \ and Rhabdomyosarcoma"
+  authors:
+  - Huating Wang
+  - Ramiro Garzon
+  - Hao Sun
+  - Katherine J. Ladner
+  - Ravi Singh
+  - Jason Dahlman
+  - Alfred Cheng
+  - Brett M. Hall
+  - Stephen J. Qualman
+  - Dawn S. Chandler
+  - Carlo M. Croce
+  - Denis C. Guttridge
+  publisher: Cancer Cell
+  date: '2008-11-01'
+  link: https://doi.org/dccx8c
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/carcin/bgn156
+  title: Transgenic cyclooxygenase-2 expression and high salt enhanced susceptibility
+    to chemical-induced gastric cancer development in mice
+  authors:
+  - Wai K. Leung
+  - Kai-chun Wu
+  - Christine Y. P. Wong
+  - Alfred S. L. Cheng
+  - Arthur K. K. Ching
+  - Anthony W. H. Chan
+  - Wilson W. S. Chong
+  - Minnie Y. Y. Go
+  - Jun Yu
+  - Ka-Fai To
+  - Xin Wang
+  - Y. L. Chui
+  - D. M. Fan
+  - Joseph J. Y. Sung
+  publisher: Carcinogenesis
+  date: '2008-07-07'
+  link: https://doi.org/cmvzcn
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1136/gut.2006.097923
+  title: Expression of a cyclo-oxygenase-2 transgene in murine liver causes hepatitis
+  authors:
+  - J. Yu
+  - A. Y Hui
+  - E. S H Chu
+  - A. S L Cheng
+  - M. Y Y Go
+  - H. L Y Chan
+  - W. K Leung
+  - K. F Cheung
+  - A. K K Ching
+  - Y. L Chui
+  - K. K Chan
+  - J. J Y Sung
+  publisher: Gut
+  date: '2007-07-01'
+  link: https://doi.org/djnnt5
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.canlet.2007.01.004
+  title: RNA interference targeting HBx suppresses tumor growth and enhances cisplatin
+    chemosensitivity in human hepatocellular carcinoma
+  authors:
+  - Alfred S.L. Cheng
+  - Nathalie Wong
+  - Ada M.Y. Tse
+  - Kathy Y.Y. Chan
+  - Kai K. Chan
+  - Joseph J.Y. Sung
+  - Henry L.Y. Chan
+  publisher: Cancer Letters
+  date: '2007-08-01'
+  link: https://doi.org/bdm4hp
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/sj.leu.2404798
+  title: "Transcriptional regulation of parathyroid hormone-related protein promoter\
+    \ P2 by NF-\u03BAB in adult T-cell leukemia/lymphoma"
+  authors:
+  - M V P Nadella
+  - W P Dirksen
+  - K S Nadella
+  - S Shu
+  - A S Cheng
+  - J A Morgenstern
+  - V Richard
+  - S A Fernandez
+  - T H Huang
+  - D Guttridge
+  - T J Rosol
+  publisher: Leukemia
+  date: '2007-06-07'
+  link: https://doi.org/c93gbd
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btl329
+  title: "A mixture model-based discriminate analysis for identifying ordered transcription\
+    \ factor binding site pairs in gene promoters directly regulated by estrogen receptor-\u03B1"
+  authors:
+  - Lang Li
+  - Alfred S. L. Cheng
+  - Victor X. Jin
+  - Henry H. Paik
+  - Meiyun Fan
+  - Xiaoman Li
+  - Wei Zhang
+  - Jason Robarge
+  - Curtis Balch
+  - Ramana V. Davuluri
+  - Sun Kim
+  - Tim H.-M. Huang
+  - Kenneth P. Nephew
+  publisher: Bioinformatics
+  date: '2006-06-29'
+  link: https://doi.org/dqbnjs
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.molcel.2005.12.016
+  title: "Combinatorial Analysis of Transcription Factor Partners Reveals Recruitment\
+    \ of c-MYC to Estrogen Receptor-\u03B1 Responsive Promoters"
+  authors:
+  - Alfred S.L. Cheng
+  - Victor X. Jin
+  - Meiyun Fan
+  - Laura T. Smith
+  - Sandya Liyanarachchi
+  - Pearlly S. Yan
+  - Yu-Wei Leu
+  - Michael W.Y. Chan
+  - Christoph Plass
+  - Kenneth P. Nephew
+  - Ramana V. Davuluri
+  - Tim H.-M. Huang
+  publisher: Molecular Cell
+  date: '2006-02-01'
+  link: https://doi.org/dszcbp
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.CAN-06-1666
+  title: Diverse Gene Expression and DNA Methylation Profiles Correlate with Differential
+    Adaptation of Breast Cancer Cells to the Antiestrogens Tamoxifen and Fulvestrant
+  authors:
+  - Meiyun Fan
+  - Pearlly S. Yan
+  - Cori Hartman-Frey
+  - Lei Chen
+  - Henry Paik
+  - Samuel L. Oyer
+  - Jonathan D. Salisbury
+  - Alfred S.L. Cheng
+  - Lang Li
+  - Phillip H. Abbosh
+  - Tim H-M. Huang
+  - Kenneth P. Nephew
+  publisher: Cancer Research
+  date: '2006-12-15'
+  link: https://doi.org/fcvqjh
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.plefa.2004.04.007
+  title: Effect of prostaglandin E2 and prostaglandin I2 on PDGF-induced proliferation
+    of LI90, a human hepatic stellate cell line
+  authors:
+  - Alex Yui Hui
+  - Alfred Sze-Lok Cheng
+  - Henry Lik-Yuen Chan
+  - Minnie Yin-Yin Go
+  - Francis Ka-Leung Chan
+  - Ryuichiro Sakata
+  - Takato Ueno
+  - Michio Sata
+  - Joseph Jao-Yiu Sung
+  publisher: Prostaglandins, Leukotrienes and Essential Fatty Acids (PLEFA)
+  date: '2004-11-01'
+  link: https://doi.org/bx422p
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/modpathol.3800196
+  title: 'Expression of HBx and COX-2 in chronic hepatitis B, cirrhosis and hepatocellular
+    carcinoma: implication of HBx in upregulation of COX-2'
+  authors:
+  - Alfred S-L Cheng
+  - Henry L-Y Chan
+  - Wai K Leung
+  - Ka F To
+  - Minnie Y-Y Go
+  - John Y-H Chan
+  - Choong T Liew
+  - Joseph J-Y Sung
+  publisher: Modern Pathology
+  date: '2004-10-01'
+  link: https://doi.org/b577rz
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1089/107632703768247395
+  title: Bioengineering and Characterization of Physeal Transplant with Physeal Reconstruction
+    Potential
+  authors:
+  - Kwong Man Lee
+  - Alfred Sze Lok Cheng
+  - Wing Hoi Cheung
+  - Pauline Po Yee Lui
+  - Vincent Ooi
+  - Kwok Pui Fung
+  - Ping Chung Leung
+  - Kwok Sui Leung
+  publisher: Tissue Engineering
+  date: '2003-08-01'
+  link: https://doi.org/fjjxrv
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1046/j.1365-2036.2002.01163.x
+  title: "Expression of cyclooxygenase\u20102 in chronic hepatitis B and the effects\
+    \ of anti\u2010viral therapy"
+  authors:
+  - A. S. L. Cheng
+  - H. L. Y. Chan
+  - N. W. Y. Leung
+  - C. T. Liew
+  - K. F. To
+  - P. B. S. Lai
+  - J. J. Y. Sung
+  publisher: Alimentary Pharmacology &amp; Therapeutics
+  date: '2002-01-18'
+  link: https://doi.org/bqr6n6
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1046/j.1365-2036.2001.00918.x
+  title: "Expression and cellular localization of COX\u20101 and \u20102 in <i>Helicobacter\
+    \ pylori</i> gastritis"
+  authors:
+  - F. K. L. Chan
+  - K. F. To
+  - Y. P. Ng
+  - T. L. Lee
+  - A. S. L. Cheng
+  - W. K. Leung
+  - J. J. Y. Sung
+  publisher: Alimentary Pharmacology &amp; Therapeutics
+  date: '2001-02-05'
+  link: https://doi.org/fn4pvs
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1046/j.1365-2036.2001.00889.x
+  title: "Up\u2010regulation of cyclooxygenase\u20101 and \u20102 in human gastric\
+    \ ulcer"
+  authors:
+  - K. F. To
+  - F. K. L. Chan
+  - A. S. L. Cheng
+  - T. L. Lee
+  - Y. P. Ng
+  - J. J. Y. Sung
+  publisher: Alimentary Pharmacology &amp; Therapeutics
+  date: '2001-01-17'
+  link: https://doi.org/cthh6r
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0002-9440(10)64586-5
+  title: Cyclooxygenase-2 Expression in Helicobacter pylori-Associated Premalignant
+    and Malignant Gastric Lesions
+  authors:
+  - Joseph J.Y. Sung
+  - Wai K. Leung
+  - Minnie Y.Y. Go
+  - Ka F. To
+  - Alfred S.L. Cheng
+  - Enders K.W. Ng
+  - Francis K.L. Chan
+  publisher: The American Journal of Pathology
+  date: '2000-09-01'
+  link: https://doi.org/cwd45r
+  orcid: 0000-0003-2345-6951
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1136/gutjnl-2022-328364
+  title: Targeting PPAR-gamma counteracts tumour adaptation to immune-checkpoint blockade
+    in hepatocellular carcinoma
+  authors:
+  - Zhewen Xiong
+  - Stephen Lam Chan
+  - Jingying Zhou
+  - Joaquim S.L. Vong
+  - Tsz Tung Kwong
+  - Xuezhen Zeng
+  - Haoran Wu
+  - Jianquan Cao
+  - Yalin Tu
+  - Yu Feng
+  - Weiqin Yang
+  - Patrick Pak-Chun Wong
+  - Willis Wai-Yiu Si-Tou
+  - Xiaoyu Liu
+  - Jing Wang
+  - Wenshu Tang
+  - Zhixian Liang
+  - Jiahuan Lu
+  - Ka Man Li
+  - Jie-Ting Low
+  - Michael Wing-Yan Chan
+  - Howard H.W. Leung
+  - Anthony W.H. Chan
+  - Ka-Fai To
+  - Kevin Yuk-Lap Yip
+  - Yuk Ming Dennis Lo
+  - Joseph Jao-Yiu Sung
+  - Alfred Sze-Lok Cheng
+  publisher: Gut
+  date: '2023-04-05'
+  link: https://doi.org/gr9zwz
+  type: paper
+  image: https://gut.bmj.com/content/gutjnl/early/2023/04/04/gutjnl-2022-328364/F8.large.jpg?width=800&height=600&carousel=1
+  description: "Press release:[CU Medicine uncovers the keys for liver cancer adaptation\
+    \ to immunotherapy Pioneering new combination therapy in a Phase II clinical trial](https://www.cpr.cuhk.edu.hk/en/press/cu-medicine-uncovers-the-keys-for-liver-cancer-adaptation-to-immunotherapy-pioneering-new-combination-therapy-in-a-phase-ii-clinical-trial/),\
+    \ [\u4E2D\u5927\u7834\u89E3\u809D\u764C\u514D\u75AB\u8010\u85E5\u6A5F\u5236 \u914D\
+    \u5408\u65B0\u514D\u75AB\u7642\u6CD5\u80FD\u6709\u6548\u6D88\u9664\u764C\u7D30\
+    \u80DE](https://news.tvb.com/tc/local/64b00ae7c2ea9a2f9f9821e8/%E6%B8%AF%E6%BE%B3-%E4%B8%AD%E5%A4%A7%E7%A0%B4%E8%A7%A3%E8%82%9D%E7%99%8C%E5%85%8D%E7%96%AB%E8%80%90%E8%97%A5%E6%A9%9F%E5%88%B6%E9%85%8D%E5%90%88%E6%96%B0%E5%85%8D%E7%96%AB%E7%99%82%E6%B3%95%E8%83%BD%E6%9C%89%E6%95%88%E6%B6%88%E9%99%A4%E7%99%8C%E7%B4%B0%E8%83%9E)"
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ymthe.2022.09.012
+  title: Fibrotic immune microenvironment remodeling mediates superior anti-tumor
+    efficacy of a nano-PD-L1 trap in hepatocellular carcinoma
+  authors:
+  - Xiaoyu Liu
+  - Jingying Zhou
+  - Haoran Wu
+  - Shufen Chen
+  - Lingyun Zhang
+  - Wenshu Tang
+  - Liang Duan
+  - Ying Wang
+  - Eleanor McCabe
+  - Mengying Hu
+  - Zhuo Yu
+  - Hanzhuang Liu
+  - Chung Hang Jonathan Choi
+  - Joseph Jao-yiu Sung
+  - Leaf Huang
+  - Rihe Liu
+  - Alfred Sze-lok Cheng
+  publisher: Molecular Therapy
+  date: '2023-01-04'
+  link: https://doi.org/gr2pp7
+  type: paper
+  image: https://user-images.githubusercontent.com/81615397/274469102-e7478654-3ef2-41f2-9266-df4bb452b39f.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41423-022-00872-3
+  title: Aberrant cholesterol metabolic signaling impairs antitumor immunosurveillance
+    through natural killer T cell dysfunction in obese liver
+  authors:
+  - Wenshu Tang
+  - Jingying Zhou
+  - Weiqin Yang
+  - Yu Feng
+  - Haoran Wu
+  - Myth T. S. Mok
+  - Lingyun Zhang
+  - Zhixian Liang
+  - Xiaoyu Liu
+  - Zhewen Xiong
+  - Xuezhen Zeng
+  - Jing Wang
+  - Jiahuan Lu
+  - Jingqing Li
+  - Hanyong Sun
+  - Xiaoyu Tian
+  - Philip Chun Yeung
+  - Yong Hou
+  - Heung Man Lee
+  - Candice C. H. Lam
+  - Howard H. W. Leung
+  - Anthony W. H. Chan
+  - Ka Fai To
+  - John Wong
+  - Paul B. S. Lai
+  - Kelvin K. C. Ng
+  - Simon K. H. Wong
+  - Vincent W. S. Wong
+  - Alice P. S. Kong
+  - Joseph J. Y. Sung
+  - Alfred S. L. Cheng
+  publisher: Cellular &amp; Molecular Immunology
+  date: '2022-05-20'
+  link: https://doi.org/gr2pp9
+  type: paper
+  image: https://user-images.githubusercontent.com/81615397/274469236-ba1ec616-9286-417a-a89f-eb8c5da35d1a.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1126/scitranslmed.aaz6804
+  title: A selective HDAC8 inhibitor potentiates antitumor immunity and efficacy of
+    immune checkpoint blockade in hepatocellular carcinoma
+  authors:
+  - Weiqin Yang
+  - Yu Feng
+  - Jingying Zhou
+  - Otto Ka-Wing Cheung
+  - Jianquan Cao
+  - Jing Wang
+  - Wenshu Tang
+  - Yalin Tu
+  - Liangliang Xu
+  - Feng Wu
+  - Zhiwu Tan
+  - Hanyong Sun
+  - Yuan Tian
+  - John Wong
+  - Paul Bo-San Lai
+  - Stephen Lam Chan
+  - Anthony Wing-Hung Chan
+  - Patrick Boon-Ooi Tan
+  - Zhiwei Chen
+  - Joseph Jao-Yiu Sung
+  - Kevin Yuk-Lap Yip
+  - Ka-Fai To
+  - Alfred Sze-Lok Cheng
+  publisher: Science Translational Medicine
+  date: '2021-04-07'
+  link: https://doi.org/gjqjz8
+  type: paper
+  image: https://www.sbs.cuhk.edu.hk/enewsletter/2021vol11no2/_custom/image-slider/alfred-2.jpg
+  description: "Press release:[CUHK Uncovers a New Strategy to Turn \u201CCold\u201D\
+    \ Liver Tumour \u201CHot\u201D Leading to an Effective and Durable Combined Immunotherapy](https://www.cpr.cuhk.edu.hk/en/press/cuhk-uncovers-a-new-strategy-to-turn-cold-liver-tumour-hot-leading-to-an-effective-and-durable-combined-immunotherapy/),\
+    \ [\u4E2D\u5927\u7814\u7A76\u767C\u73FE\u6291\u5236\u6392\u65A5\u514D\u75AB\u7D30\
+    \u80DE\u57FA\u56E0 \u53EF\u589E\u5F37\u764C\u75C7\u7642\u6CD5\u529F\u6548](https://www.stheadline.com/article/2112725/%E4%B8%AD%E5%A4%A7%E7%A0%94%E7%A9%B6%E7%99%BC%E7%8F%BE%E6%8A%91%E5%88%B6%E6%8E%92%E6%96%A5%E5%85%8D%E7%96%AB%E7%B4%B0%E8%83%9E%E5%9F%BA%E5%9B%A0-%E5%8F%AF%E5%A2%9E%E5%BC%B7%E7%99%8C%E7%97%87%E7%99%82%E6%B3%95%E5%8A%9F%E6%95%88)"
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41423-020-00534-2
+  title: Cell cycle-related kinase reprograms the liver immune microenvironment to
+    promote cancer metastasis
+  authors:
+  - Xuezhen Zeng
+  - Jingying Zhou
+  - Zhewen Xiong
+  - Hanyong Sun
+  - Weiqin Yang
+  - Myth T. S. Mok
+  - Jing Wang
+  - Jingqing Li
+  - Man Liu
+  - Wenshu Tang
+  - Yu Feng
+  - Hector Kwong-Sang Wang
+  - Shun-Wa Tsang
+  - King-Lau Chow
+  - Philip Chun Yeung
+  - John Wong
+  - Paul Bo-San Lai
+  - Anthony Wing-Hung Chan
+  - Ka Fai To
+  - Stephen Lam Chan
+  - Qiang Xia
+  - Jing Xue
+  - Xiao Chen
+  - Jun Yu
+  - Sui Peng
+  - Joseph Jao-Yiu Sung
+  - Ming Kuang
+  - Alfred Sze-Lok Cheng
+  publisher: Cellular &amp; Molecular Immunology
+  date: '2020-09-02'
+  link: https://doi.org/gr2pqc
+  type: paper
+  image: https://user-images.githubusercontent.com/81615397/274469840-049ba06f-47ac-47ab-b20a-064ede689cac.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.isci.2023.107626
+  title: Myeloid-intrinsic cell cycle-related kinase drives immunosuppression to promote
+    tumorigenesis
+  authors:
+  - Jingying Zhou
+  - Huanyu Wang
+  - Ting Shu
+  - Jing Wang
+  - Weiqin Yang
+  - Jingqing Li
+  - Lipeng Ding
+  - Man Liu
+  - Hanyong Sun
+  - John Wong
+  - Paul Bo-san Lai
+  - Shun-Wa Tsang
+  - Simon E. Ward
+  - King-Lau Chow
+  - Joseph Jao-yiu Sung
+  - Alfred Sze-Lok Cheng
+  publisher: iScience
+  date: '2023-10-01'
+  link: https://doi.org/gsvk3q
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/path.6091
+  title: "The <scp>E2F1\u2013HOXB9</scp>/<scp>PBX2\u2013CDK6</scp> axis drives gastric\
+    \ tumorigenesis and serves as a therapeutic target in gastric cancer"
+  authors:
+  - Jinglin Zhang
+  - Bonan Chen
+  - Yifei Wang
+  - Xiaoli Liu
+  - Huan Yan
+  - Kit Yee Wong
+  - Aden KY Chan
+  - Alvin HK Cheung
+  - Chit Chow
+  - Dazhi Xu
+  - Shouyu Wang
+  - Bing Huang
+  - Li Liang
+  - Huixing Ke
+  - Chi Chun Wong
+  - William KK Wu
+  - Alfred SL Cheng
+  - Jun Yu
+  - Kwok Wai Lo
+  - Ka Fai To
+  - Wei Kang
+  publisher: The Journal of Pathology
+  date: '2023-06-05'
+  link: https://doi.org/gsnt8v
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1136/gutjnl-2022-327133
+  title: Isoformic PD-1-mediated immunosuppression underlies resistance to PD-1 blockade
+    in hepatocellular carcinoma patients
+  authors:
+  - Zhiwu Tan
+  - Mei Sum Chiu
+  - Xinxiang Yang
+  - Ming Yue
+  - Tan To Cheung
+  - Dongyan Zhou
+  - Yuewen Wang
+  - Anthony Wing-Hung Chan
+  - Chi Wing Yan
+  - Ka Yi Kwan
+  - Yik Chun Wong
+  - Xin Li
+  - Jingying Zhou
+  - Ka Fai To
+  - Jiye Zhu
+  - Chung Mau Lo
+  - Alfred Sze-Lok Cheng
+  - Stephen Lam Chan
+  - Li Liu
+  - You-Qiang Song
+  - Kwan Man
+  - Zhiwei Chen
+  publisher: Gut
+  date: '2022-11-30'
+  link: https://doi.org/grf59d
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.34133/research.0182
+  title: Cold-Induced Reprogramming of Subcutaneous White Adipose Tissue Assessed
+    by Single-Cell and Single-Nucleus RNA Sequencing
+  authors:
+  - Qing Liu
+  - Qiaoyun Long
+  - Jiayu Zhao
+  - Wenjie Wu
+  - Zexin Lin
+  - Wei Sun
+  - Ping Gu
+  - Tuo Deng
+  - Kerry Martin Loomes
+  - Donghai Wu
+  - Alice P. S. Kong
+  - Jingying Zhou
+  - Alfred S. Cheng
+  - Hannah Xiaoyan Hui
+  publisher: Research
+  date: '2023-01-01'
+  link: https://doi.org/gsnt8w
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41598-023-33869-7
+  title: Neuropathological signatures revealed by transcriptomic and proteomic analysis
+    in Pten-deficient mouse models
+  authors:
+  - Stanley K. K. Cheung
+  - Jacinda Kwok
+  - Penelope M. Y. Or
+  - Chi Wai Wong
+  - Bo Feng
+  - Kwong Wai Choy
+  - Raymond C. C. Chang
+  - J. Peter H. Burbach
+  - Alfred S. L. Cheng
+  - Andrew M. Chan
+  publisher: Scientific Reports
+  date: '2023-04-25'
+  link: https://doi.org/gsnt8x
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/hep.32585
+  title: "Eliminating METTL1\u2010mediated accumulation of PMN\u2010MDSCs prevents\
+    \ hepatocellular carcinoma recurrence after radiofrequency ablation"
+  authors:
+  - Xuezhen Zeng
+  - Guanrui Liao
+  - Shumin Li
+  - Haining Liu
+  - Xiao Zhao
+  - Shuang Li
+  - Kai Lei
+  - Shenghua Zhu
+  - Zhihang Chen
+  - Yi Zhao
+  - Xuxin Ren
+  - Tianhong Su
+  - "Alfred Sze\u2010Lok Cheng"
+  - Sui Peng
+  - Shuibin Lin
+  - Ji Wang
+  - Shuling Chen
+  - Ming Kuang
+  publisher: Hepatology
+  date: '2022-07-08'
+  link: https://doi.org/gqc67v
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/ejendo/lvad014
+  title: Compromised browning in white adipose tissue of ageing people
+  authors:
+  - Ping Gu
+  - Kai Ding
+  - Lei Lu
+  - Yu Zhang
+  - Wei Wang
+  - Qingyu Guo
+  - Yannian Liao
+  - Bingjie Yang
+  - Tiantian Wang
+  - Changsheng Zhou
+  - Bin Lu
+  - Alice P S Kong
+  - Alfred S Cheng
+  - Hannah Xiaoyan Hui
+  - Jiaqing Shao
+  publisher: European Journal of Endocrinology
+  date: '2023-02-08'
+  link: https://doi.org/gsnt8z
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/path.6033
+  title: "Cancer\u2010associated fibroblasts potentiate colorectal cancer progression\
+    \ by crosstalk of the <scp>IGF2</scp>\u2013<scp>IGF1R</scp> and <scp>Hippo\u2013\
+    YAP1</scp> signaling pathways"
+  authors:
+  - Jinglin Zhang
+  - Bonan Chen
+  - Hui Li
+  - Yifei Wang
+  - Xiaoli Liu
+  - Kit Yee Wong
+  - Wai Nok Chan
+  - Aden KY Chan
+  - Alvin HK Cheung
+  - Kam Tong Leung
+  - Yujuan Dong
+  - Yi Pan
+  - Huixing Ke
+  - Li Liang
+  - Zhaocai Zhou
+  - Jianyong Xiao
+  - Chi Chun Wong
+  - William KK Wu
+  - Alfred SL Cheng
+  - Brigette BY Ma
+  - Jun Yu
+  - Kwok Wai Lo
+  - Wei Kang
+  publisher: The Journal of Pathology
+  date: '2022-12-17'
+  link: https://doi.org/grdt9z
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acs.jmedchem.2c01132
+  title: Development of Alkylated Hydrazides as Highly Potent and Selective Class
+    I Histone Deacetylase Inhibitors with T cell Modulatory Properties
+  authors:
+  - Ping Sun
+  - Jing Wang
+  - Khadija S. Khan
+  - Weiqin Yang
+  - Billy Wai-Lung Ng
+  - Nikita Ilment
+  - Matthes Zessin
+  - "Emre F. B\xFClb\xFCl"
+  - Dina Robaa
+  - Frank Erdmann
+  - Matthias Schmidt
+  - Christophe Romier
+  - Mike Schutkowski
+  - Alfred Sze-Lok Cheng
+  - Wolfgang Sippl
+  publisher: Journal of Medicinal Chemistry
+  date: '2022-11-30'
+  link: https://doi.org/gr2pp8
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1080/15548627.2021.2016004
+  title: Vitamin D<sub>3</sub>and carbamazepine protect against<i>Clostridioides difficile</i>infection
+    in mice by restoring macrophage lysosome acidification
+  authors:
+  - Hung Chan
+  - Qing Li
+  - Xiansong Wang
+  - Wing Yingzhi Liu
+  - Wei Hu
+  - Judeng Zeng
+  - Chuan Xie
+  - Thomas Ngai Yeung Kwong
+  - Idy Hiu Ting Ho
+  - Xiaodong Liu
+  - Huarong Chen
+  - Jun Yu
+  - Ho Ko
+  - Raphael Chiu Yeung Chan
+  - Margaret Ip
+  - Tony Gin
+  - Alfred Sze Lok Cheng
+  - Lin Zhang
+  - Matthew Tak Vai Chan
+  - Sunny Hei Wong
+  - William Ka Kei Wu
+  publisher: Autophagy
+  date: '2022-01-06'
+  link: https://doi.org/gsnt83
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.7150/thno.75431
+  title: MCM6 is a critical transcriptional target of YAP to promote gastric tumorigenesis
+    and serves as a therapeutic target
+  authors:
+  - Yifei Wang
+  - Huarong Chen
+  - Weixin Liu
+  - Huan Yan
+  - Yihan Zhang
+  - Alvin H.K. Cheung
+  - Jinglin Zhang
+  - Bonan Chen
+  - Li Liang
+  - Zhaocai Zhou
+  - Chi Chun Wong
+  - William K.K. Wu
+  - Michael W.Y. Chan
+  - Alfred S.L. Cheng
+  - Brigette B.Y. Ma
+  - Jun Yu
+  - Kwok Wai Lo
+  - Ka Fai To
+  - Wei Kang
+  publisher: Theranostics
+  date: '2022-01-01'
+  link: https://doi.org/gq9fcf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/advs.202101235
+  title: "Smad3 Promotes Cancer\u2010Associated Fibroblasts Generation via Macrophage\u2013\
+    Myofibroblast Transition"
+  authors:
+  - "Philip Chiu\u2010Tsun Tang"
+  - "Jeff Yat\u2010Fai Chung"
+  - "Vivian Wei\u2010wen Xue"
+  - Jun Xiao
+  - "Xiao\u2010Ming Meng"
+  - "Xiao\u2010Ru Huang"
+  - Shuang Zhou
+  - "Alex Siu\u2010Wing Chan"
+  - "Anna Chi\u2010Man Tsang"
+  - "Alfred Sze\u2010Lok Cheng"
+  - "Tin\u2010Lap Lee"
+  - "Kam\u2010Tong Leung"
+  - "Eric W.\u2010F. Lam"
+  - "Ka\u2010Fai To"
+  - "Patrick Ming\u2010Kuen Tang"
+  - "Hui\u2010Yao Lan"
+  publisher: Advanced Science
+  date: '2021-11-17'
+  link: https://doi.org/gpc88b
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/bib/bbab040
+  title: Multi-omic analysis suggests tumor suppressor genes evolved specific promoter
+    features to optimize cancer resistance
+  authors:
+  - Dan Huang
+  - Xiansong Wang
+  - Yingzhi Liu
+  - Ziheng Huang
+  - Xiaoxu Hu
+  - Wei Hu
+  - Qing Li
+  - Hung Chan
+  - Yidan Zou
+  - Idy H T Ho
+  - Yan Wang
+  - Alfred S L Cheng
+  - Wei Kang
+  - Ka F To
+  - Maggie H T Wang
+  - Sunny H Wong
+  - Jun Yu
+  - Tony Gin
+  - Qingpeng Zhang
+  - Zheng Li
+  - Jianxiong Shen
+  - Lin Zhang
+  - Matthew T V Chan
+  - Xiaodong Liu
+  - William K K Wu
+  publisher: Briefings in Bioinformatics
+  date: '2021-03-30'
+  link: https://doi.org/gsmjhm
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41598-021-86473-y
+  title: A proof-of-concept study for the pathogenetic role of enhancer hypomethylation
+    of MYBPHL in multiple myeloma
+  authors:
+  - Kwan Yeung Wong
+  - Gareth J. Morgan
+  - Eileen M. Boyle
+  - Alfred Sze Lok Cheng
+  - Kevin Yuk-Lap Yip
+  - Chor Sang Chim
+  publisher: Scientific Reports
+  date: '2021-03-26'
+  link: https://doi.org/gsnt84
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s42256-020-0205-2
+  title: A unified framework for integrative study of heterogeneous gene regulatory
+    mechanisms
+  authors:
+  - Qin Cao
+  - Zhenghao Zhang
+  - Alexander Xi Fu
+  - Qiong Wu
+  - Tin-Lap Lee
+  - Eric Lo
+  - Alfred S. L. Cheng
+  - Chao Cheng
+  - Danny Leung
+  - Kevin Y. Yip
+  publisher: Nature Machine Intelligence
+  date: '2020-07-27'
+  link: https://doi.org/ghhnjq
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jhepr.2020.100224
+  title: Chemotherapy-induced recruitment of myeloid-derived suppressor cells abrogates
+    efficacy of immune checkpoint blockade
+  authors:
+  - Tsz Tung Kwong
+  - Chi Hang Wong
+  - Jing Ying Zhou
+  - Alfred Sze Lok Cheng
+  - Joseph Jao Yiu Sung
+  - Anthony Wing Hung Chan
+  - Stephen Lam Chan
+  publisher: JHEP Reports
+  date: '2021-04-01'
+  link: https://doi.org/gmhvct
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bbcan.2020.188415
+  title: 'MCM family in gastrointestinal cancer and other malignancies: From functional
+    characterization to clinical implication'
+  authors:
+  - Yifei Wang
+  - Huarong Chen
+  - Jinglin Zhang
+  - Alfred S.L. Cheng
+  - Jun Yu
+  - Ka Fai To
+  - Wei Kang
+  publisher: Biochimica et Biophysica Acta (BBA) - Reviews on Cancer
+  date: '2020-12-01'
+  link: https://doi.org/gknj5d
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/cancers12113425
+  title: The Intersection between Oral Microbiota, Host Gene Methylation and Patient
+    Outcomes in Head and Neck Squamous Cell Carcinoma
+  authors:
+  - Zigui Chen
+  - Po Yee Wong
+  - Cherrie W. K. Ng
+  - Linlin Lan
+  - Sherwood Fung
+  - Jing W. Li
+  - Liuyang Cai
+  - Pu Lei
+  - Qianqian Mou
+  - Sunny H. Wong
+  - William K. K. Wu
+  - Ryan J. Li
+  - Katie Meehan
+  - Vivian W. Y. Lui
+  - Chit Chow
+  - Kwok W. Lo
+  - Amy B. W. Chan
+  - Siaw Shi Boon
+  - Eric H. L. Lau
+  - Zenon Yeung
+  - Kwan C. Allen Chan
+  - Eddy W. Y. Wong
+  - Alfred S. L. Cheng
+  - Jun Yu
+  - Paul K. S. Chan
+  - Jason Y. K. Chan
+  publisher: Cancers
+  date: '2020-11-18'
+  link: https://doi.org/gpnnz9
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/febs.15287
+  title: "Autism\u2010associated PTEN missense mutation leads to enhanced nuclear\
+    \ localization and neurite outgrowth in an induced pluripotent stem cell line"
+  authors:
+  - Chi Wai Wong
+  - Yubing Wang
+  - Tian Liu
+  - Lisha Li
+  - Stanley Kwok Kuen Cheung
+  - "Penelope Mei\u2010Yu Or"
+  - "Alfred Sze\u2010Lok Cheng"
+  - Kwong Wai Choy
+  - Johannes Peter Henri Burbach
+  - Bo Feng
+  - Raymond Chuen Chung Chang
+  - Andrew M. Chan
+  publisher: The FEBS Journal
+  date: '2020-03-26'
+  link: https://doi.org/gsnt85
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41388-020-01458-x
+  title: "FGF18\u2013FGFR2 signaling triggers the activation of c-Jun\u2013YAP1 axis\
+    \ to promote carcinogenesis in a subgroup of gastric cancer patients and indicates\
+    \ translational potential"
+  authors:
+  - Jinglin Zhang
+  - Chi Chun Wong
+  - Kam Tong Leung
+  - Feng Wu
+  - Yuhang Zhou
+  - Joanna H. M. Tong
+  - Ronald C. K. Chan
+  - Hui Li
+  - Yifei Wang
+  - Huan Yan
+  - Liping Liu
+  - William K. K. Wu
+  - Michael W. Y. Chan
+  - Alfred S. L. Cheng
+  - Jun Yu
+  - Nathalie Wong
+  - Kwok Wai Lo
+  - Ka Fai To
+  - Wei Kang
+  publisher: Oncogene
+  date: '2020-09-15'
+  link: https://doi.org/gkmnrb
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41388-020-1293-5
+  title: AMOTL1 enhances YAP1 stability and promotes YAP1-driven gastric oncogenesis
+  authors:
+  - Yuhang Zhou
+  - Jinglin Zhang
+  - Hui Li
+  - Tingting Huang
+  - Chi Chun Wong
+  - Feng Wu
+  - Man Wu
+  - Nuoqing Weng
+  - Liping Liu
+  - Alfred S. L. Cheng
+  - Jun Yu
+  - Nathalie Wong
+  - Kwok Wai Lo
+  - Patrick M. K. Tang
+  - Wei Kang
+  - Ka Fai To
+  publisher: Oncogene
+  date: '2020-04-20'
+  link: https://doi.org/gsnt86
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41388-020-1241-4
+  title: 'Gastric cancer: genome damaged by bugs'
+  authors:
+  - Yanan Zhao
+  - Jinglin Zhang
+  - Alfred S. L. Cheng
+  - Jun Yu
+  - Ka Fai To
+  - Wei Kang
+  publisher: Oncogene
+  date: '2020-03-02'
+  link: https://doi.org/gsd3hw
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/cells8060637
+  title: Targeting the Oncogenic FGF-FGFR Axis in Gastric Carcinogenesis
+  authors:
+  - Jinglin Zhang
+  - Patrick M. K. Tang
+  - Yuhang Zhou
+  - Alfred S. L. Cheng
+  - Jun Yu
+  - Wei Kang
+  - Ka Fai To
+  publisher: Cells
+  date: '2019-06-25'
+  link: https://doi.org/gsnt87
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.2174/138161213804805757
+  title: 'Epigenetic Deregulation of MicroRNAs: New Opportunities to Target Oncogenic
+    Signaling Pathways in Hepatocellular Carcinoma'
+  authors:
+  - Zhuo Yu
+  - Alfred Sze-Lok Cheng
+  publisher: Current Pharmaceutical Design
+  date: '2012-12-10'
+  link: https://doi.org/gsnt88
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1136/gutjnl-2022-328861
+  title: "Meltdown of the cold tumour microenvironment: a new \u2018translational\u2019\
+    \ approach to augment immunotherapy efficacy"
+  authors:
+  - Alfred Sze-Lok Cheng
+  publisher: Gut
+  date: '2022-12-13'
+  link: https://doi.org/gskrz9
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.canlet.2021.10.039
+  title: Sirtuin 7 super-enhancer drives epigenomic reprogramming in hepatocarcinogenesis
+  authors:
+  - Feng Wu
+  - Liangliang Xu
+  - Yalin Tu
+  - Otto KW. Cheung
+  - Lemuel LM. Szeto
+  - Myth TS. Mok
+  - Weiqin Yang
+  - Wei Kang
+  - Qin Cao
+  - Paul BS. Lai
+  - Stephen L. Chan
+  - Patrick Tan
+  - Joseph JY. Sung
+  - Kevin Y. Yip
+  - Alfred SL. Cheng
+  - Ka F. To
+  publisher: Cancer Letters
+  date: '2022-01-01'
+  link: https://doi.org/gr2pqb
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/cancers13102418
+  title: Liver Immune Microenvironment and Metastasis from Colorectal Cancer-Pathogenesis
+    and Therapeutic Perspectives
+  authors:
+  - Xuezhen Zeng
+  - Simon E. Ward
+  - Jingying Zhou
+  - Alfred S. L. Cheng
+  publisher: Cancers
+  date: '2021-05-17'
+  link: https://doi.org/gq7jd3
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3892/ijo.24.4.853
+  title: Cyclooxygenase-2 pathway correlates with vascular endothelial growth factor
+    expression and tumor angiogenesis in hepatitis B virus-associated hepatocellular
+    carcinoma
+  authors:
+  - Alfred Cheng
+  - Henry Chan
+  - Ka To
+  - Wai Leung
+  - Ka Chan
+  - Choong Liew
+  - Joseph Sung
+  publisher: International Journal of Oncology
+  date: '2004-04-01'
+  link: https://doi.org/gsc3sx
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3892/ijo.23.1.113
+  title: Specific COX-2 inhibitor, NS-398, suppresses cellular proliferation and induces
+    apoptosis in human hepatocellular carcinoma cells
+  authors:
+  - Alfred Cheng
+  - Henry Chan
+  - Wai Leung
+  - Nathalie Wong
+  - Philip Johnson
+  - Joseph Sung
+  publisher: International Journal of Oncology
+  date: '2003-07-01'
+  link: https://doi.org/f99srh
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3892/or.18.6.1557
+  title: Targeted inhibition of COX-2 expression by RNA interference suppresses tumor
+    growth and potentiates chemosensitivity to cisplatin in human gastric cancer cells
+  authors:
+  - Michael Chan
+  - Christine Wong
+  - Alfred Cheng
+  - Victor Chan
+  - Ka Chan
+  - Ka To
+  - Francis Chan
+  - Joseph Sung
+  - Wai Leung
+  publisher: Oncology Reports
+  date: '2007-12-01'
+  link: https://doi.org/gsc3sz
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.2174/1381612811319070003
+  title: 'Epigenetic Deregulation of MicroRNAs: New Opportunities to Target Oncogenic
+    Signaling Pathways in Hepatocellular Carcinoma'
+  authors:
+  - Zhuo Yu
+  - Alfred Sze-Lok Cheng
+  publisher: Current Pharmaceutical Design
+  date: '2012-12-01'
+  link: https://doi.org/gsc3s2
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41388-020-01579-3
+  title: NOTCH3, a crucial target of miR-491-5p/miR-875-5p, promotes gastric carcinogenesis
+    by upregulating PHLDB2 expression and activating Akt pathway
+  authors:
+  - Wei Kang
+  - Jinglin Zhang
+  - Tingting Huang
+  - Yuhang Zhou
+  - Chi Chun Wong
+  - Ronald C. K. Chan
+  - Yujuan Dong
+  - Feng Wu
+  - Bin Zhang
+  - William K. K. Wu
+  - Michael W. Y. Chan
+  - Alfred S. L. Cheng
+  - Jun Yu
+  - Nathalie Wong
+  - Kwok Wai Lo
+  - Ka Fai To
+  publisher: Oncogene
+  date: '2021-01-15'
+  link: https://doi.org/gm5fpp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s13402-020-00546-0
+  title: Bufalin inhibits hepatitis B virus-associated hepatocellular carcinoma development
+    through androgen receptor dephosphorylation and cell cycle-related kinase degradation
+  authors:
+  - Zhuo Yu
+  - Hai Feng
+  - Yunhui Zhuo
+  - Man Li
+  - Xiaojun Zhu
+  - Lingying Huang
+  - Xin Zhang
+  - Zhenhua Zhou
+  - Chao Zheng
+  - Yun Jiang
+  - Fan Le
+  - Dae-Yeul Yu
+  - Alfred Szelok Cheng
+  - Xuehua Sun
+  - Yueqiu Gao
+  publisher: Cellular Oncology
+  date: '2020-07-04'
+  link: https://doi.org/gn9xk8
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:39916327
+  title: Overcoming immunotherapy resistance in hepatocellular carcinoma by targeting
+    myeloid IL-8/CXCR2 signaling.
+  authors:
+  - Tsz Tung Kwong
+  - Zhewen Xiong
+  - Yiling Zhang
+  - Haoran Wu
+  - Jianquan Cao
+  - Patrick Pak-Chun Wong
+  - Xiaoyu Liu
+  - Jing Wang
+  - Chi Hang Wong
+  - Gary Man-Kit Tse
+  - Joseph Jao-Yiu Sung
+  - Jingying Zhou
+  - Alfred Sze-Lok Cheng
+  - Stephen Lam Chan
+  publisher: 'Molecular therapy : the journal of the American Society of Gene Therapy'
+  date: '2025-02-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39916327
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jhep.2024.12.032
+  title: 'Targeting tumour endothelial cells in liver cancer: The end of beginning'
+  authors:
+  - Xiaohang Long
+  - Tsz Tung Kwong
+  - Alfred Sze-Lok Cheng
+  - Stephen Lam Chan
+  publisher: Journal of Hepatology
+  date: '2024-12-01'
+  link: https://doi.org/g86jsf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jtocrr.2024.100754
+  title: "Germline Human Leukocyte Antigen Status is Associated With Immunotherapy-Induced\
+    \ Pneumonitis and Treatment Response in Patients With Non\u2013Small Cell Lung\
+    \ Cancer With High Programmed Death-Ligand 1 Expression"
+  authors:
+  - Alvin H.K. Cheung
+  - Zeta Mui
+  - Walter W. Yeung
+  - Chit Chow
+  - Mandy F. Yu
+  - Olivia H. Chen
+  - Kit-Yee Wong
+  - Fuda Xie
+  - Yat Ming Lau
+  - Alfred S-L. Cheng
+  - Wei Kang
+  - Ka-Fai To
+  - Tony S. Mok
+  - Molly S.C. Li
+  publisher: JTO Clinical and Research Reports
+  date: '2025-01-01'
+  link: https://doi.org/g86jsg
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:39486886
+  title: Pharmacological activation of STAT1-GSDME pyroptotic circuitry reinforces
+    epigenetic immunotherapy for hepatocellular carcinoma.
+  authors:
+  - Yalin Tu
+  - Haoran Wu
+  - Chengpeng Zhong
+  - Yan Liu
+  - Zhewen Xiong
+  - Siyun Chen
+  - Jing Wang
+  - Patrick Pak-Chun Wong
+  - Weiqin Yang
+  - Zhixian Liang
+  - Jiahuan Lu
+  - Shufen Chen
+  - Lingyun Zhang
+  - Yu Feng
+  - Willis Wai-Yiu Si-Tou
+  - Baoyi Yin
+  - Yingnan Lin
+  - Jianxin Liang
+  - Liying Liang
+  - Joaquim S L Vong
+  - Weida Ren
+  - Tsz Tung Kwong
+  - Howard Leung
+  - Ka Fai To
+  - Stephanie Ma
+  - Man Tong
+  - Hanyong Sun
+  - Qiang Xia
+  - Jingying Zhou
+  - David Kerr
+  - Nick La Thangue
+  - Joseph J Y Sung
+  - Stephen Lam Chan
+  - Alfred Sze-Lok Cheng
+  publisher: Gut
+  date: '2024-11-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39486886
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/jacs.3c14380
+  title: Targeted Protein O-GlcNAcylation Using Bifunctional Small Molecules
+  authors:
+  - Bowen Ma
+  - Khadija Shahed Khan
+  - Tongyang Xu
+  - Josefina Xeque Amada
+  - Zhihao Guo
+  - Yunpeng Huang
+  - Yu Yan
+  - Henry Lam
+  - Alfred Sze-Lok Cheng
+  - Billy Wai-Lung Ng
+  publisher: Journal of the American Chemical Society
+  date: '2024-04-01'
+  link: https://doi.org/g86jsj
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41522-024-00511-x
+  title: Integrative analysis reveals associations between oral microbiota dysbiosis
+    and host genetic and epigenetic aberrations in oral cavity squamous cell carcinoma
+  authors:
+  - Liuyang Cai
+  - Hengyan Zhu
+  - Qianqian Mou
+  - Po Yee Wong
+  - Linlin Lan
+  - Cherrie W. K. Ng
+  - Pu Lei
+  - Man Kit Cheung
+  - Daijuanru Wang
+  - Eddy W. Y. Wong
+  - Eric H. L. Lau
+  - Zenon W. C. Yeung
+  - Ronald Lai
+  - Katie Meehan
+  - Sherwood Fung
+  - Kwan Chee A. Chan
+  - Vivian W. Y. Lui
+  - Alfred S. L. Cheng
+  - Jun Yu
+  - Paul K. S. Chan
+  - Jason Y. K. Chan
+  - Zigui Chen
+  publisher: npj Biofilms and Microbiomes
+  date: '2024-04-08'
+  link: https://doi.org/g86jsk
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jhepr.2024.101087
+  title: PPP1R15A-expressing monocytic MDSCs promote immunosuppressive liver microenvironment
+    in fibrosis-associated hepatocellular carcinoma
+  authors:
+  - Xiaoyu Liu
+  - Man Liu
+  - Haoran Wu
+  - Wenshu Tang
+  - Weiqin Yang
+  - Thomas T.H. Chan
+  - Lingyun Zhang
+  - Shufen Chen
+  - Zhewen Xiong
+  - Jianxin Liang
+  - Willis Wai-Yiu Si-Tou
+  - Ting Shu
+  - Jingqing Li
+  - Jianquan Cao
+  - Chengpeng Zhong
+  - Hanyong Sun
+  - Tsz Tung Kwong
+  - Howard H.W. Leung
+  - John Wong
+  - Paul Bo-San Lai
+  - Ka-Fai To
+  - Tingxiu Xiang
+  - Joseph Jao-Yiu Sung
+  - Stephen Lam Chan
+  - Jingying Zhou
+  - Alfred Sze-Lok Cheng
+  publisher: JHEP Reports
+  date: '2024-07-01'
+  link: https://doi.org/g86jsm
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/ctm2.1516
+  title: "The molecular classification of cancer\u2010associated fibroblasts on a\
+    \ pan\u2010cancer single\u2010cell transcriptional atlas"
+  authors:
+  - Bonan Chen
+  - Wai Nok Chan
+  - Fuda Xie
+  - Chun Wai Mui
+  - Xiaoli Liu
+  - Alvin H. K. Cheung
+  - Raymond W. M. Lung
+  - Chit Chow
+  - Zhenhua Zhang
+  - Canbin Fang
+  - Peiyao Yu
+  - Shihua Shi
+  - Shikun Zhou
+  - Guoming Chen
+  - Zhangding Wang
+  - Shouyu Wang
+  - Xiaofan Ding
+  - Bing Huang
+  - Li Liang
+  - Yujuan Dong
+  - Chi Chun Wong
+  - William K. K. Wu
+  - Alfred S. L. Cheng
+  - Nathalie Wong
+  - Jun Yu
+  - Kwok Wai Lo
+  - Gary M. K. Tse
+  - Wei Kang
+  - Ka Fai To
+  publisher: Clinical and Translational Medicine
+  date: '2023-12-01'
+  link: https://doi.org/gtvpxt
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/bib/bbad520
+  title: Accurate identification of structural variations from cancer samples
+  authors:
+  - Le Li
+  - Chenyang Hong
+  - Jie Xu
+  - Claire Yik-Lok Chung
+  - Alden King-Yung Leung
+  - Delbert Almerick T Boncan
+  - Lixin Cheng
+  - Kwok-Wai Lo
+  - Paul B S Lai
+  - John Wong
+  - Jingying Zhou
+  - Alfred Sze-Lok Cheng
+  - Ting-Fung Chan
+  - Feng Yue
+  - Kevin Y Yip
+  publisher: Briefings in Bioinformatics
+  date: '2023-11-22'
+  link: https://doi.org/g86jsn
   plugin: sources.py
   file: sources.yaml
