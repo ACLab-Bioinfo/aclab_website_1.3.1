@@ -24,9 +24,6 @@ DNA and histones are targets of multiple chemical modifications that convey flex
   text=text
 %}
 
-{% include section.html %}
-
-{% include section.html %}
 
 ## **Tumor immunology and immunotherapy**
 
@@ -40,3 +37,5 @@ Therapy-induced tumor microenvironment (TME) remodelling poses a major hurdle fo
   image="https://user-images.githubusercontent.com/81615397/274145413-da3c6296-75d8-459b-8e51-596ccb41f922.png"
   text=text
 %}
+
+{% include section.html %}

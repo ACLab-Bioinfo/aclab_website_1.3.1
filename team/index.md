@@ -17,23 +17,23 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 
 ## Research staff
 
-{% include list.html data="members" component="portrait" filters="role == 'res'" %}
+{% include list.html data="members" component="portrait" filter="role == 'res'" %}
 
 ## Postdoctoral Fellow
 
-{% include list.html data="members" component="portrait" filters="role == 'postdoc'" %}
+{% include list.html data="members" component="portrait" filter="role == 'postdoc'" %}
 
 ## Research assistant
 
-{% include list.html data="members" component="portrait" filters="role == 'staff'" %}
+{% include list.html data="members" component="portrait" filter="role == 'staff'" %}
 
 ## PhD student
 
-{% include list.html data="members" component="portrait" filters="role == 'phd'" %}
+{% include list.html data="members" component="portrait" filter="role == 'phd'" %}
 
 ## Student research interns
 
-{% include list.html data="members" component="portrait" filters="role == 'undergrad'" %}
+{% include list.html data="members" component="portrait" filter="role == 'undergrad'" %}
 
 {% include section.html %}
 
