@@ -1,19 +1,17 @@
 # site properties and page defaults
-title: Lab Website Template
-subtitle: by the Greene Lab
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
-header: images/background.jpg
-footer: images/background.jpg
+title: CHENG Laboratory
+subtitle: Epigenetics and Therapeutics in Immuno-Oncology
+description: CHENG Laboratory of Epigenetics and Therapeutics in Immuno-Oncology, School of Biomedical Sciences, The Chinese University of Hong Kong
+header: images/chromatin_structure.svg
+footer: images/footer.png
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@your-lab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: your-lab
-  twitter: YourLabHandle
-  youtube: YourLabChannel
+  email: alfredlabmailing@gmail.com
+  orcid: 0000-0003-2345-6951
+  google-scholar: Alfred S.L. Cheng
+  github: ACLab-Bioinfo
 
 ### jekyll settings
 

@@ -6,6 +6,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research Interests
 
+{% include section.html %}
+
 * Cancer epigenetics
 * Tumor immunology and immunotherapy
 * Hepatocellular carcinoma (HCC)
@@ -38,4 +40,3 @@ Therapy-induced tumor microenvironment (TME) remodelling poses a major hurdle fo
   text=text
 %}
 
-{% include section.html %}
