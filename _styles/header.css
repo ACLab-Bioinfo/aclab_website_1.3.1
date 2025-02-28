@@ -4,7 +4,7 @@ header {
   align-items: center;
   flex-wrap: wrap;
   gap: 20px;
-  padding: 20px;
+  padding: 30px;
   box-shadow: var(--shadow);
   position: sticky !important;
   top: 0;
@@ -48,11 +48,12 @@ header a {
 
 .title {
   font-size: var(--large);
+  font-weight: var(--bold);
 }
 
 .subtitle {
-  opacity: 0.65;
-  font-weight: var(--thin);
+  opacity: 0.75;
+  font-weight: var(--semi-bold);
 }
 
 .nav-toggle {
@@ -87,7 +88,7 @@ nav {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  gap: 10px;
+  gap: 20px;
   font-family: var(--heading);
   text-transform: uppercase;
 }
@@ -129,7 +130,7 @@ header[data-big] .home {
   flex-grow: 0;
 }
 header[data-big] .logo {
-  height: 80px;
+  height: 100px;
   flex-shrink: 0;
 }
 header[data-big] .title-text {
