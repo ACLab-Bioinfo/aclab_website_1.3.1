@@ -2,12 +2,35 @@
 
 Reference: common-changelog.org
 
+## 1.3.4 - 2025-02-03
+
+### Changed
+
+- Fix section component parsing bug.
+
+## 1.3.3 - 2025-01-25
+
+### Changed
+
+- Citation process logging enhancements.
+
+### Added
+
+- Add support for multiple authors in blog posts.
+- Add GitHub Actions workflow status badges to readme.
+
+## 1.3.2 - 2025-01-06
+
+### Changed
+
+- Misc enhancements and bug fixes.
+
 ## 1.3.1 - 2024-11-11
 
 ### Changed
 
-- Update and improve workflows for building site and citations
-- Escape user inputs better in rare edge cases
+- Update and improve workflows for building site and citations.
+- Escape user inputs better in rare edge cases.
 
 ## 1.3.0 - 2024-08-16
 
