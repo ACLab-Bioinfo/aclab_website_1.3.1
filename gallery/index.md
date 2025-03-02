@@ -148,7 +148,7 @@ nav:
 
   {%
     include figure.html
-    image="https://user-images.githubusercontent.com/81615397/274132749-8f54c019-ccca-4670-bfa0-bbfa7703eda0.jpg"
+    image="https://github.com/ACLab-Bioinfo/aclabwebsite_figbed/blob/main/Gallery/2013-Cheng%20Lab.jpg?raw=true"
     caption="2013-Very first group photo of Cheng Lab"
   %}
    
