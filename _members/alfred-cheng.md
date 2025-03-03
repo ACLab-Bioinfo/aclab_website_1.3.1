@@ -13,17 +13,18 @@ aliases:
 links:
   home-page: https://www2.sbs.cuhk.edu.hk/en-gb/people/academic-staff/prof-cheng-sze-lok-alfred
   google-scholar: Alfred S.L. Cheng
-  orcid: 0000-0003-2345-6951
   email: alfredcheng@cuhk.edu.hk
 ---
 
 ## Biography
-Alfred Cheng is a Professor of the School of Biomedical Sciences and Assistant Dean in Research of the Faculty of Medicine at The Chinese University of Hong Kong (CUHK). He completed his Ph.D. under the mentorship of Prof. Joseph Sung at CUHK and his postdoctoral training in the laboratory of Prof. Tim Huang at The Ohio State University. His research aims at advancing the basic understanding and precision immunotherapy of hepatocellular carcinoma. His multi-disciplinary collaborative team has employed the cutting-edge single-cell multi-omics and AI innovation to understand tumor adaptation to immune-checkpoint blockade and identify the cellular and molecular mechanisms of immunotherapeutic resistance. His recent works on the development of effective and durable combination immunotherapies have been published and highlighted in top journals of the field such as Gut, Journal of Hepatology, and Science Translational Medicine. He is the recipient of the Most Promising Young Investigator Award by the HK Government (2014) and CUHK (2015, 2019), and the 10th HMRF Anniversary Award in Breakthrough Research by the Food and Health Bureau of HK Government (2021). 
+Alfred Cheng is a Professor of the School of Biomedical Sciences and Assistant Dean in Research of the Faculty of Medicine at The Chinese University of Hong Kong (CUHK). He completed his Ph.D. under the mentorship of Prof. Joseph Sung at CUHK and his postdoctoral training in the laboratory of Prof. Tim Huang at The Ohio State University. His research aims at advancing the basic understanding and precision immunotherapy of hepatocellular carcinoma. His multi-disciplinary collaborative team has employed the cutting-edge single-cell multi-omics and AI innovation to understand tumor adaptation to immune-checkpoint blockade and identify the cellular and molecular mechanisms of immunotherapeutic resistance. His recent works on the development of effective and durable combination immunotherapies have been published and highlighted in top journals of the field such as Gut, Journal of Hepatology, and Science Translational Medicine. He is the recipient of the Most Promising Young Investigator Award by the HK Government (2014) and CUHK (2015, 2019), and the 10th HMRF Anniversary Award in Breakthrough Research by the Food and Health Bureau of HK Government (2021).  
+
 
 ## CUHK Employment
 * Assistant Dean (Research), Faculty of Medicine  
 * Professor, School of Biomedical Sciences, New Asia  
 * Theme Chief, Cancer Biology and Experimental Therapeutics Theme, School of Biomedical Sciences  
+
 
 ## Honors and Awards
 * Top 10 Innovation and Technology News, Hong Kong 2023, Beijing-Hong Kong Academic Exchange Centre, 2024  
