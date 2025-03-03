@@ -10,25 +10,25 @@ nav:
 
   {% 
     include figure.html 
-    image="https://github.com/user-attachments/assets/9a5c166f-c4a2-4862-8b94-6439b3b73af4"
+    image="https://github.com/ACLab-Bioinfo/aclabwebsite_figbed/blob/main/Gallery/2024_12_Christmas.JPG?raw=true"
     caption="2024-Christmas gift exchange together with Zhou Lab and Tong Lab"
   %}
   
   {% 
     include figure.html 
-    image="https://github.com/user-attachments/assets/123e2220-a793-4506-adb0-74a9bd172581"
+    image="https://github.com/ACLab-Bioinfo/aclabwebsite_figbed/blob/main/Gallery/2024-WillisBack.jpg?raw=true"
     caption="2024-Happy to have you back, Willis!"
   %}
 
   {% 
     include figure.html 
-    image="https://github.com/user-attachments/assets/6a51dba3-32d5-46d8-bbe5-177a34ee76cb"
+    image="https://github.com/ACLab-Bioinfo/aclabwebsite_figbed/blob/main/Gallery/2024_08_bowling.JPG?raw=true"
     caption="2024-Bowling time"
   %}
 
   {% 
     include figure.html 
-    image="https://github.com/user-attachments/assets/eee81973-7720-480f-859b-0fa17afd7ef1"
+    image="https://github.com/ACLab-Bioinfo/aclabwebsite_figbed/blob/main/Gallery/2024-Lingyun_grad.jpg?raw=true"
     caption="2024-Happy graduation. Dr.Zhang!"
   %}
 
@@ -40,19 +40,19 @@ nav:
 
   {% 
     include figure.html 
-    image="https://user-images.githubusercontent.com/81615397/289416787-a07e6fca-4be1-4762-b1c5-ee9257267d70.JPG?"
+    image="https://github.com/ACLab-Bioinfo/aclabwebsite_figbed/blob/main/Gallery/2023_10yrs_celebration.JPG?raw=true"
     caption="2023-Celebrating Cheng Lab 10th anniversary"
   %}
 
   {% 
     include figure.html 
-    image="https://user-images.githubusercontent.com/81615397/274132817-08ffe67a-7f50-4b29-9742-ab4c007f127d.jpg"
+    image="https://github.com/ACLab-Bioinfo/aclabwebsite_figbed/blob/main/Gallery/2023-grad_shufen_zhixian.jpg?raw=true"
     caption="2023-Happy graduation Dr.Liang and Dr.Chen!"
   %}
 
   {% 
     include figure.html 
-    image="https://user-images.githubusercontent.com/81615397/274132811-ab91e698-ef96-42de-a574-54dd2ca53209.JPG"
+    image="https://github.com/ACLab-Bioinfo/aclabwebsite_figbed/blob/main/Gallery/2023-SZ-BBQ.JPG?raw=true"
     caption="2023-Barbecue gathering in Shenzhen"
   %}
   
