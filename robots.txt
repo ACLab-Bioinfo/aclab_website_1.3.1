@@ -1,1 +1,1 @@
-Sitemap: https://aclab-bioinfo.github.io/aclab_website_1.3.1/sitemap.xml
+Sitemap: https://chenglabcuhk.com/sitemap.xml
