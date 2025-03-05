@@ -1,4 +1,4 @@
-Visit **[aclab-bioinfo.github.io/aclab_website_1.3.1](https://aclab-bioinfo.github.io/aclab_website_1.3.1)** 🚀
+Visit **[chenglabcuhk.com](https://chenglabcuhk.com)** 🚀
 
 <h1 align="center">Lab Website Template</h1>
 <p align="center">
