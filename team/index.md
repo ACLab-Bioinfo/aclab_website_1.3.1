@@ -58,10 +58,28 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 </thead>
 <tbody>
 <tr>
+<td markdown="span">2025</td>
+<td markdown="span">Tu Yalin</td>
+<td markdown="span">Ph.D student and Post-doctoral Fellow</td>
+<td markdown="span">Associate Professor, College of Pharmacy, Jinan University</td>
+</tr>
+<tr>
 <td markdown="span">2024</td>
 <td markdown="span">ZHANG Lingyun</td>
 <td markdown="span">Ph.D student</td>
 <td markdown="span">Surgical Resident, Guangdong Provincial People's Hospital</td>
+</tr>
+<tr>
+<td markdown="span">2024</td>
+<td markdown="span">WU Haoran</td>
+<td markdown="span">Ph.D student</td>
+<td markdown="span">Research Assistant, School of Biomedical Sciences, CUHK</td>
+</tr>
+<tr>
+<td markdown="span">2024</td>
+<td markdown="span">WONG Pak Chun Patrick</td>
+<td markdown="span">Ph.D student</td>
+<td markdown="span">Research Assistant, School of Biomedical Sciences, CUHK</td>
 </tr>
 <tr>
 <td markdown="span">2024</td>
@@ -80,12 +98,6 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 <td markdown="span">CHEN Shufen</td>
 <td markdown="span">Ph.D student</td>
 <td markdown="span">Lecturer, School of Medicine, Jinan University</td>
-</tr>
-<tr>
-<td markdown="span">2022</td>
-<td markdown="span">TU Yalin</td>
-<td markdown="span">Ph.D student</td>
-<td markdown="span">Post-doctoral Fellow, School of Biomedical Sciences, CUHK</td>
 </tr>
 <tr>
 <td markdown="span">2022</td>
