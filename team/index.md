@@ -58,7 +58,7 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 <tbody>
 <tr>
 <td markdown="span">2025</td>
-<td markdown="span">Tu Yalin</td>
+<td markdown="span">TU Yalin</td>
 <td markdown="span">Ph.D student and Post-doctoral Fellow</td>
 <td markdown="span">Associate Professor, College of Pharmacy, Jinan University</td>
 </tr>
