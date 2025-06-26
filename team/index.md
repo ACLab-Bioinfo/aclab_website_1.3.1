@@ -4,7 +4,6 @@ nav:
   order: 4
 ---
 
-
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
 Welcome to our lab and get to know our team! Our laboratory members are from different background, and all are passionate about our work and committed to advancing scientific knowledge in our fields. 
@@ -240,6 +239,12 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 </tr>
 </thead>
 <tbody>
+<tr>
+<td markdown="span">2025</td>
+<td markdown="span">REN Weida</td>
+<td markdown="span">Junior Research Assistant</td>
+<td markdown="span">To be update</td>
+</tr>
 <tr>
 <td markdown="span">2024</td>
 <td markdown="span">Willis Wai-Yiu Si-Tou</td>
