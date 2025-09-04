@@ -2,7 +2,7 @@
 title: Farewell to Our Dear Yalin, and Wish You a Flourishing Academic Career
 last_modified_at: ""
 tags: 
-  - News
+  - Farewell
 image: https://github.com/ACLab-Bioinfo/aclabwebsite_figbed/blob/main/News/2025/Yalin_lastday.jpg?raw=true
 ---
 

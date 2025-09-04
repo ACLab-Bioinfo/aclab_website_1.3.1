@@ -1,8 +1,8 @@
 ---
 name: ZHANG Yiling
-image: https://github.com/user-attachments/assets/73590a3e-e58a-4949-9f6e-40cb240f6f0e
+image: https://github.com/ACLab-Bioinfo/aclabwebsite_figbed/blob/main/Member/zhang-yiling.JPG?raw=true
 role: phd
-description: Year 3 PhD Student
+description: Year 4 PhD Student
 aliases:
   - Yiling Zhang
   - Zhang Yiling

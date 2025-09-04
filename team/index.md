@@ -58,6 +58,12 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 <tbody>
 <tr>
 <td markdown="span">2025</td>
+<td markdown="span">WONG Pak Chun Patrick</td>
+<td markdown="span">Ph.D student</td>
+<td markdown="span">Post-doctoral Fellow, Faculty of Science, PolyU</td>
+</tr>
+<tr>
+<td markdown="span">2025</td>
 <td markdown="span">TU Yalin</td>
 <td markdown="span">Ph.D student and Post-doctoral Fellow</td>
 <td markdown="span">Associate Professor, College of Pharmacy, Jinan University</td>
@@ -73,12 +79,6 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 <td markdown="span">WU Haoran</td>
 <td markdown="span">Ph.D student</td>
 <td markdown="span">Post-doctoral Fellow, School of Biomedical Sciences, CUHK</td>
-</tr>
-<tr>
-<td markdown="span">2024</td>
-<td markdown="span">WONG Pak Chun Patrick</td>
-<td markdown="span">Ph.D student</td>
-<td markdown="span">Research Assistant, School of Biomedical Sciences, CUHK</td>
 </tr>
 <tr>
 <td markdown="span">2024</td>
