@@ -2,7 +2,7 @@
 title: Farewell and Best Wishes to Our RA, Weida
 last_modified_at: ""
 tags: 
-  - News
+  - Farewell
 image: https://github.com/ACLab-Bioinfo/aclabwebsite_figbed/blob/main/News/2025/Weida_farewell.jpg?raw=true
 ---
 
