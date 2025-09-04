@@ -1,5 +1,5 @@
 ---
-title: Farewell to Patrick: Best Wishes on His New Journey at PolyU
+title: Farewell to Patrick - Best Wishes on His New Journey at PolyU
 last_modified_at: ""
 tags: 
   - Farewell

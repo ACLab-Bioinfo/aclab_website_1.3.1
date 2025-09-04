@@ -1,5 +1,5 @@
 ---
-title: Lab Gathering 2025: A Day of Fun in Shenzhen
+title: Lab Gathering 2025 - A Day of Fun in Shenzhen
 last_modified_at: ""
 tags: 
   - News
