@@ -1,6 +1,6 @@
 ---
 name: FAN Jiawei
-image: 
+image: https://github.com/ACLab-Bioinfo/aclabwebsite_figbed/blob/main/Member/fan-jiawei.jpg?raw=true
 role: phd
 description: Year 1 PhD Student
 aliases:
