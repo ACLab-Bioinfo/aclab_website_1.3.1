@@ -14,11 +14,11 @@ Our lab was proud to achieve notable recognition at this conference, with studen
 
 We extend our heartfelt congratulations to both students for their dedication and exceptional performance!
 
-<p align="center" width="60%">
-    <img width="30%" src="https://github.com/ACLab-Bioinfo/aclabwebsite_figbed/blob/main/News/2025/meetingPrize_baoyi.jpg?raw=true">
-    <img width="30%" src="https://github.com/ACLab-Bioinfo/aclabwebsite_figbed/blob/main/News/2025/meetingPrize_xiaoyu.jpg?raw=true">
+<p align="center" width="70%">
+    <img width="35%" src="https://github.com/ACLab-Bioinfo/aclabwebsite_figbed/blob/main/News/2025/meetingPrize_baoyi.jpg?raw=true">
+    <img width="35%" src="https://github.com/ACLab-Bioinfo/aclabwebsite_figbed/blob/main/News/2025/meetingPrize_xiaoyu.jpg?raw=true">
 </p>
 
-<p align="center" width="60%">
-    <img width="100%" src="https://github.com/ACLab-Bioinfo/aclabwebsite_figbed/blob/main/News/2025/meeting_all.jpg?raw=true">
+<p align="center" width="70%">
+    <img width="70%" src="https://github.com/ACLab-Bioinfo/aclabwebsite_figbed/blob/main/News/2025/meeting_all.jpg?raw=true">
 </p>
