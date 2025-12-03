@@ -710,21 +710,21 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/path.4976
-  title: The CCCTC-binding factor (CTCF)-forkhead box protein M1 axis regulates tumour
-    growth and metastasis in hepatocellular carcinoma
+  title: "The CCCTC\u2010binding factor (CTCF)\u2013forkhead box protein M1 axis regulates\
+    \ tumour growth and metastasis in hepatocellular carcinoma"
   authors:
   - Bin Zhang
   - Yajing Zhang
   - Xiaoping Zou
   - Anthony WH Chan
   - Rui Zhang
-  - Terence Kin-Wah Lee
+  - "Terence Kin\u2010Wah Lee"
   - Hang Liu
-  - Eunice Yuen-Ting Lau
-  - Nicole Pui-Yu Ho
+  - "Eunice Yuen\u2010Ting Lau"
+  - "Nicole Pui\u2010Yu Ho"
   - Paul BS Lai
-  - Yue-Sun Cheung
-  - Ka-Fai To
+  - "Yue\u2010Sun Cheung"
+  - "Ka\u2010Fai To"
   - Hoi Kin Wong
   - Kwong Wai Choy
   - Vincent W Keng
@@ -833,8 +833,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/path.4731
-  title: "Combinatorial epigenetic deregulation by <i>Helicobacter pylori</i>\n and\
-    \ Epstein-Barr virus infections in gastric tumourigenesis"
+  title: "Combinatorial epigenetic deregulation by <i>Helicobacter pylori</i> and\
+    \ Epstein\u2013Barr virus infections in gastric tumourigenesis"
   authors:
   - William KK Wu
   - Jun Yu
@@ -1117,7 +1117,8 @@
   file: orcid.yaml
 - id: doi:10.1158/0008-5472.CAN-14-1301
   title: "Epigenetic Silencing of miR-490-3p Reactivates the Chromatin Remodeler SMARCD1\
-    \ to Promote<i>Helicobacter pylori</i>\u2013Induced Gastric Carcinogenesis"
+    \ to Promote\n                    <i>Helicobacter pylori</i>\n               \
+    \     \u2013Induced Gastric Carcinogenesis"
   authors:
   - Jing Shen
   - Zhangang Xiao
@@ -2096,8 +2097,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/0008-5472.CAN-08-4914
-  title: Xenoestrogen-Induced Epigenetic Repression of <i>microRNA-9-3</i> in Breast
-    Epithelial Cells
+  title: "Xenoestrogen-Induced Epigenetic Repression of\n                    <i>microRNA-9-3</i>\n\
+    \                    in Breast Epithelial Cells"
   authors:
   - Pei-Yin Hsu
   - Daniel E. Deatherage
@@ -2282,20 +2283,20 @@
 - id: doi:10.1136/gut.2006.097923
   title: Expression of a cyclo-oxygenase-2 transgene in murine liver causes hepatitis
   authors:
-  - J. Yu
-  - A. Y Hui
-  - E. S H Chu
-  - A. S L Cheng
-  - M. Y Y Go
-  - H. L Y Chan
-  - W. K Leung
-  - K. F Cheung
-  - A. K K Ching
-  - Y. L Chui
-  - K. K Chan
-  - J. J Y Sung
+  - Jun Yu
+  - Alex Y Hui
+  - Eagle S H Chu
+  - Alfred S L Cheng
+  - Minnie Y Y Go
+  - Henry L Y Chan
+  - Wai K Leung
+  - Kin F Cheung
+  - Arthur K K Ching
+  - Yiu L Chui
+  - Ka K Chan
+  - Joseph J Y Sung
   publisher: Gut
-  date: '2007-07-01'
+  date: '2006-12-05'
   link: https://doi.org/djnnt5
   orcid: 0000-0003-2345-6951
   plugin: orcid.py
@@ -2527,6 +2528,51 @@
   orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1136/gutjnl-2024-332281
+  title: Pharmacological activation of STAT1-GSDME pyroptotic circuitry reinforces
+    epigenetic immunotherapy for hepatocellular carcinoma
+  authors:
+  - Yalin Tu
+  - Haoran Wu
+  - Chengpeng Zhong
+  - Yan Liu
+  - Zhewen Xiong
+  - Siyun Chen
+  - Jing Wang
+  - Patrick Pak-Chun Wong
+  - Weiqin Yang
+  - Zhixian Liang
+  - Jiahuan Lu
+  - Shufen Chen
+  - Lingyun Zhang
+  - Yu Feng
+  - Willis Wai-Yiu Si-Tou
+  - Baoyi Yin
+  - Yingnan Lin
+  - Jianxin Liang
+  - Liying Liang
+  - Joaquim S L Vong
+  - Weida Ren
+  - Tsz Tung Kwong
+  - Howard Leung
+  - Ka Fai To
+  - Stephanie Ma
+  - Man Tong
+  - Hanyong Sun
+  - Qiang Xia
+  - Jingying Zhou
+  - David Kerr
+  - Nick La Thangue
+  - Joseph J Y Sung
+  - Stephen Lam Chan
+  - Alfred Sze-Lok Cheng
+  publisher: Gut
+  date: '2025-03-06'
+  link: https://doi.org/g86jsh
+  type: paper
+  image: https://gut.bmj.com/content/gutjnl/74/4/613/F8.large.jpg?width=800&height=600&carousel=1
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1136/gutjnl-2022-328364
   title: Targeting PPAR-gamma counteracts tumour adaptation to immune-checkpoint blockade
     in hepatocellular carcinoma
@@ -3501,49 +3547,6 @@
   link: https://doi.org/g86jsg
   plugin: sources.py
   file: sources.yaml
-- id: pubmed:39486886
-  title: Pharmacological activation of STAT1-GSDME pyroptotic circuitry reinforces
-    epigenetic immunotherapy for hepatocellular carcinoma.
-  authors:
-  - Yalin Tu
-  - Haoran Wu
-  - Chengpeng Zhong
-  - Yan Liu
-  - Zhewen Xiong
-  - Siyun Chen
-  - Jing Wang
-  - Patrick Pak-Chun Wong
-  - Weiqin Yang
-  - Zhixian Liang
-  - Jiahuan Lu
-  - Shufen Chen
-  - Lingyun Zhang
-  - Yu Feng
-  - Willis Wai-Yiu Si-Tou
-  - Baoyi Yin
-  - Yingnan Lin
-  - Jianxin Liang
-  - Liying Liang
-  - Joaquim S L Vong
-  - Weida Ren
-  - Tsz Tung Kwong
-  - Howard Leung
-  - Ka Fai To
-  - Stephanie Ma
-  - Man Tong
-  - Hanyong Sun
-  - Qiang Xia
-  - Jingying Zhou
-  - David Kerr
-  - Nick La Thangue
-  - Joseph J Y Sung
-  - Stephen Lam Chan
-  - Alfred Sze-Lok Cheng
-  publisher: Gut
-  date: '2025-03-06'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/39486886
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1021/jacs.3c14380
   title: Targeted Protein O-GlcNAcylation Using Bifunctional Small Molecules
   authors:
@@ -3687,5 +3690,133 @@
   publisher: Briefings in Bioinformatics
   date: '2023-11-22'
   link: https://doi.org/g86jsn
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41392-025-02425-2
+  title: 'Towards biomarker-driven cancer immunotherapy: the rising of a protein phosphatase
+    regulator'
+  authors:
+  - Xiaoyu Liu
+  - Weiqin Yang
+  - Alfred Sze-Lok Cheng
+  publisher: Signal Transduction and Targeted Therapy
+  date: '2025-10-14'
+  link: https://doi.org/hbddpf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1158/0008-5472.CAN-24-2225
+  title: Tumor Suppressor Genes with Segmental Duplications Are Prone to Somatic Deletions
+    and Structural Variations
+  authors:
+  - Ziheng Huang
+  - Lin Zhang
+  - Huarong Chen
+  - Xiaodong Liu
+  - Likai Tan
+  - Dan Huang
+  - Yingzhi Liu
+  - Yushan Wang
+  - Xinyi Zhang
+  - Alfred Sze Lok Cheng
+  - Maggie Haitian Wang
+  - Wei Kang
+  - Ka-Fai To
+  - Jun Yu
+  - Ho Ko
+  - Le Yu
+  - Sunny H. Wong
+  - Tony Gin
+  - Matthew Tak Vai Chan
+  - Xiansong Wang
+  - William Ka Kei Wu
+  publisher: Cancer Research
+  date: '2025-05-14'
+  link: https://doi.org/hbddpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-025-61448-z
+  title: Androgen receptor promotes arachidonic acid metabolism and angiogenic microenvironment
+    in AFP-negative hepatocellular carcinoma
+  authors:
+  - Zhilong Lin
+  - Xiaofei Liu
+  - Houwei Wang
+  - Shumin Li
+  - Ziqiang Miao
+  - Jing Yang
+  - Yuting Zhang
+  - Kai Lei
+  - Yifan Wu
+  - Youmei Kang
+  - Ruoyin Zheng
+  - Zonglin Xie
+  - Yixi Wen
+  - Xiaoxue Ren
+  - Chunxiao Liu
+  - Alfred Sze-Lok Cheng
+  - Yubin Xie
+  - Shuling Chen
+  - Ming Kuang
+  - Sui Peng
+  - Zhenwei Peng
+  - Zihao Dai
+  publisher: Nature Communications
+  date: '2025-07-12'
+  link: https://doi.org/hbddph
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1158/0008-5472.CAN-24-3854
+  title: FADD Activation in Hepatocellular Carcinoma Potentiates CD8+ T-cell Responses
+    and Sensitizes to Immune Checkpoint Inhibitors
+  authors:
+  - Jiahuan Lu
+  - Thomas Ting-Hei Chan
+  - Yun Wang
+  - Jingya Wang
+  - Zhewen Xiong
+  - Jingqing Li
+  - Yixuan Zhang
+  - Huanyu Wang
+  - Jintian Chen
+  - Weiqin Yang
+  - Jing Wang
+  - Yalin Tu
+  - Howard H.W. Leung
+  - Raymond Wai Ming Lung
+  - Wei Kang
+  - Man Tong
+  - Dan Michelle Wang
+  - Qi-Nian Wu
+  - Zhao-Lei Zeng
+  - Alfred Sze-Lok Cheng
+  - Ka-Fai To
+  - Anthony W.H. Chan
+  - Jingying Zhou
+  publisher: Cancer Research
+  date: '2025-07-14'
+  link: https://doi.org/hbddpk
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1073/pnas.2418467122
+  title: BRD9 functions as an HIV-1 latency regulatory factor
+  authors:
+  - Tsz-Yat Luk
+  - Lok-Yan Yim
+  - Runhong Zhou
+  - Yufei Mo
+  - Huarong Huang
+  - Meiqing Zhao
+  - Jie Dai
+  - Thomas Tsz-Kan Lau
+  - Xiner Huang
+  - Grace Chung-Yan Lui
+  - Kwok-Yung Yuen
+  - Jasper Fuk-Woo Chan
+  - Alfred Sze-Lok Cheng
+  - Zhiwei Chen
+  - Hin Chu
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2025-05-22'
+  link: https://doi.org/hbddpm
   plugin: sources.py
   file: sources.yaml
