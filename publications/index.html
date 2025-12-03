@@ -513,13 +513,15 @@
         
           <input class="carousel__activator" type="radio" name="carousel0" id="0k">
         
+          <input class="carousel__activator" type="radio" name="carousel0" id="0l">
+        
         
           
           
           
           
           <div class="carousel__controls">
-              <label class="carousel__control carousel__control--backward" for="0k"></label>
+              <label class="carousel__control carousel__control--backward" for="0l"></label>
               <label class="carousel__control carousel__control--forward" for="0b"></label>
           </div>
         
@@ -610,13 +612,25 @@
           
           <div class="carousel__controls">
               <label class="carousel__control carousel__control--backward" for="0j"></label>
+              <label class="carousel__control carousel__control--forward" for="0l"></label>
+          </div>
+        
+          
+          
+          
+          
+          <div class="carousel__controls">
+              <label class="carousel__control carousel__control--backward" for="0k"></label>
               <label class="carousel__control carousel__control--forward" for="0a"></label>
           </div>
         
         <div class="carousel__track">
           <ul>
             
-            <li class="carousel__slide" style="background-image: url('images/publication/2023Gut.png');">
+            <li class="carousel__slide" style="background-image: url('https://github.com/ACLab-Bioinfo/aclabwebsite_figbed/blob/main/Publication/2025GUT.png?raw=true');">
+            
+            </li>
+<li class="carousel__slide" style="background-image: url('https://github.com/ACLab-Bioinfo/aclabwebsite_figbed/blob/main/Publication/2023Gut.png?raw=true');">
             
             </li>
 <li class="carousel__slide" style="background-image: url('https://user-images.githubusercontent.com/81615397/274208755-36afb6e3-6768-4f7f-851d-7a4376244a06.png');">
@@ -674,6 +688,8 @@
               <label class="carousel__indicator" for="0j"></label>
             
               <label class="carousel__indicator" for="0k"></label>
+            
+              <label class="carousel__indicator" for="0l"></label>
             
         </div>
     </div>
@@ -947,6 +963,29 @@
   opacity: 1;
 }
 
+.carousel__activator:nth-of-type(12):checked ~ .carousel__track {
+  -webkit-transform: translateX(-1100%);
+          transform: translateX(-1100%);
+}
+.carousel__activator:nth-of-type(12):checked ~ .carousel__slide:nth-of-type(12) {
+  transition: opacity 0.5s, -webkit-transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s, -webkit-transform 0.5s;
+  top: 0;
+  left: 0;
+  right: 0;
+  opacity: 1;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+}
+.carousel__activator:nth-of-type(12):checked ~ .carousel__controls:nth-of-type(12) {
+  display: block;
+  opacity: 1;
+}
+.carousel__activator:nth-of-type(12):checked ~ .carousel__indicators .carousel__indicator:nth-of-type(12) {
+  opacity: 1;
+}
+
 
 .carousel__control {
   height: 30px;
@@ -1071,6 +1110,11 @@
           transform: translateX(1000%);
 }
 
+.carousel__track .carousel__slide:nth-of-type(12) {
+  -webkit-transform: translateX(1100%);
+          transform: translateX(1100%);
+}
+
 
 .carousel--scale .carousel__slide {
   -webkit-transform: scale(0);
@@ -1157,6 +1201,12 @@
   background-position: center;
 }
 
+.carousel__slide:nth-of-type(12),
+.carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(12) {
+  background-size: cover;
+  background-position: center;
+}
+
 </style>
 
 <script>
@@ -1211,6 +1261,46 @@
 -->
 
 <h2 id="highlights">Highlights</h2>
+
+<div class="citation-container">
+  <div class="citation">
+    
+      <a href="https://www.ncbi.nlm.nih.gov/pubmed/39486886" class="citation-image" aria-label="Pharmacological activation of STAT1-GSDME pyroptotic circuitry reinforces epigenetic immunotherapy for hepatocellular carcinoma.">
+        <img src="" alt="Pharmacological activation of STAT1-GSDME pyroptotic circuitry reinforces epigenetic immunotherapy for hepatocellular carcinoma." loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+      </a>
+    
+
+    <div class="citation-text">
+      
+      
+
+      <a href="https://www.ncbi.nlm.nih.gov/pubmed/39486886" class="citation-title">
+        Pharmacological activation of STAT1-GSDME pyroptotic circuitry reinforces epigenetic immunotherapy for hepatocellular carcinoma.
+      </a>
+
+      <div class="citation-authors" data-tooltip="Yalin Tu, Haoran Wu, Chengpeng Zhong, Yan Liu, Zhewen Xiong, Siyun Chen, Jing Wang, Patrick Pak-Chun Wong, Weiqin Yang, Zhixian Liang, Jiahuan Lu, Shufen Chen, Lingyun Zhang, Yu Feng, Willis Wai-Yiu Si-Tou, Baoyi Yin, Yingnan Lin, Jianxin Liang, Liying Liang, Joaquim S L Vong, Weida Ren, Tsz Tung Kwong, Howard Leung, Ka Fai To, Stephanie Ma, Man Tong, Hanyong Sun, Qiang Xia, Jingying Zhou, David Kerr, Nick La Thangue, Joseph J Y Sung, Stephen Lam Chan, Alfred Sze-Lok Cheng" tabindex="0">
+        Yalin Tu, Haoran Wu, Chengpeng Zhong, Yan Liu, Zhewen Xiong, …, David Kerr, Nick La Thangue, Joseph J Y Sung, Stephen Lam Chan, Alfred Sze-Lok Cheng
+
+      </div>
+
+      <div class="citation-details">
+        <span class="citation-publisher">Gut</span>
+         · 
+        <span class="citation-date">06 Mar 2025</span>
+         · 
+        <span class="citation-id">pubmed:39486886</span>
+      </div>
+
+      
+        
+
+        
+
+        
+      
+    </div>
+  </div>
+</div>
 
 <div class="citation-container">
   <div class="citation">
