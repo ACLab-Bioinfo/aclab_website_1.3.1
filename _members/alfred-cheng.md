@@ -23,7 +23,7 @@ Alfred Cheng is a Professor of the School of Biomedical Sciences and Assistant D
 ## CUHK Employment
 * Assistant Dean (Research), Faculty of Medicine  
 * Professor, School of Biomedical Sciences, New Asia  
-* Theme Chief, Cancer Biology and Experimental Therapeutics Theme, School of Biomedical Sciences  
+* Theme Chief(Cancer Biology and Experimental Therapeutics Program), School of Biomedical Sciences  
 
 
 ## Honors and Awards
@@ -65,19 +65,23 @@ Alfred Cheng is a Professor of the School of Biomedical Sciences and Assistant D
 
 
 ## Research Support
-Supported by 37 competitive research grants in PC/PI/co-PI capacity (total funding: >HK$118M)
+Supported by 39 competitive research grants in PC/PI/co-PI capacity (total funding: > 119M HKD)
 
 *Selected grant record in cancer immunology and cancer epigenetics:*
+* PI, Strategic Seed Funding for Collaborative Research Scheme (SSFCRS), 2024/25, Deciphering Immune Resistance and Predictive Biomarkers in HCC Immunotherapy Through Integrated Single-Cell and Blood-Based Profiling. CUHK, HK$ 500,000, 01/10/2025 – 30/09/2027
+* PI, Research Committee – Strategic Impact Enhancement Fund (SIEF) 2024-25, Discovery and development of therapies for patients with hepatocellular carcinoma refractory to immune-checkpoint inhibitor. HK 250,000, 01/07/2025-30/07/2027
+* PI, University of Oxford Fund, 2024/25, Therapeutic Efficacy and Mechanistic Exploration of IL-15 Receptor Agonist in Overcoming Immune-checkpoint Resistance of HCC Preclinical Model. University of Oxford, HK$ 500,000, 01/01/2025 – 30/09/2025
 * PI, General Research Fund, The role of endothelial cell remodeling in driving immunotherapy resistance of hepatocellular carcinoma (HK$ 1,500,000), 2025 - 2028.  
 * PI, National Natural Science Foundation of China (NSFC)/RGC Joint Research Scheme (JRS), Mechanistic basis and therapeutic targeting of pathologic phase separation and aberrant genome architecture for cancer immunotherapy (HK$ 1,250,000), 2024 - 2027.  
 * PI, Research Grants Council, General Research Fund, The role of macrophage lipid transfer in driving immunotherapy resistance of hepatocellular carcinoma cells (HK$ 1,500,000), 2024 – 2026.
 * PI, Li Ka Shing (Canada) Foundation, A pilot study of personalized cancer treatment for cancers in the digestive system (HK$7,011,109) 2023 – 2025.  
 * PI, Research Grants Council, General Research Fund, Targeting epigenetic vulnerability in immunosuppressive myeloid cells to overcome immunotherapy resistance in hepatocellular carcinoma (HK$1,170,652) 2022 – 2023.
 * Co-PI, Research Grants Council, Research Impact Fund 2020/21, Development and applications of a driver-dependent tumor organoid biobank for translational liver cancer research (HK$4,100,000), 2021 – 2025.
-* PI, AstraZeneca, Overcoming the PD-1/PD-L1 therapeutic resistance in hepatocellular carcinoma by BET inhibitor (HK$400,000), 2021 – 2023.
-* PI, AstraZeneca, Pre-clinical Oncology Research Programme, Overcoming the PD-1/PD-L1 therapeutic resistance in hepatocellular carcinoma by BET inhibitor (HK$400,000) 2021 – 2023.  
+
 * <details><summary> More</summary>
     <ul>
+      <li>PI, AstraZeneca, Overcoming the PD-1/PD-L1 therapeutic resistance in hepatocellular carcinoma by BET inhibitor (HK$400,000), 2021 – 2023.</li>
+      <li>PI, AstraZeneca, Pre-clinical Oncology Research Programme, Overcoming the PD-1/PD-L1 therapeutic resistance in hepatocellular carcinoma by BET inhibitor (HK$400,000) 2021 – 2023. </li>
       <li>PI, Research Grants Council, General Research Fund, Resistance to immune checkpoint targeting in hepatocellular carcinoma: Role of tumor interferon signaling (HK$1,195,542) 2021 – 2022.</li>
       <li>PI, Research Grants Council, General Research Fund 2019/20, Molecular and functional characterization of the immunoregulatory CCRK-mTOR pathway in NAFLD-associated hepatocellular carcinoma (HK$1,049,917), 2020 – 2022.</li>
       <li>PI, CUHK, Direct Grant for Research 2019/20, Immunometabolic mechanism in NAFLD-associated HCC (HK$62,000), 2020 – 2021.</li>

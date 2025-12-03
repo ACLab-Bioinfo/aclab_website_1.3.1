@@ -1,3 +1,8 @@
+- id: doi:10.1136/gutjnl-2024-332281
+  type: paper
+  image: https://gut.bmj.com/content/gutjnl/74/4/613/F8.large.jpg?width=800&height=600&carousel=1
+  date: '2025-03-06'
+
 - id: doi:10.1136/gutjnl-2022-328364
   type: paper
   image: https://gut.bmj.com/content/gutjnl/early/2023/04/04/gutjnl-2022-328364/F8.large.jpg?width=800&height=600&carousel=1
@@ -167,8 +172,6 @@
 
 - id: doi:10.1016/j.jtocrr.2024.100754
 
-- id: pubmed:39486886
-
 - id: doi:10.1021/jacs.3c14380
 
 - id: doi:10.1038/s41522-024-00511-x
@@ -178,3 +181,16 @@
 - id: doi:10.1002/ctm2.1516
 
 - id: doi:10.1093/bib/bbad520
+
+- id: doi:10.1038/s41392-025-02425-2
+
+- id: doi:10.1158/0008-5472.CAN-24-2225
+
+- id: doi:10.1038/s41467-025-61448-z
+
+- id: doi:10.1158/0008-5472.CAN-24-3854
+
+- id: doi:10.1073/pnas.2418467122
+
+- id: doi:10.1021/jacs.3c14380
+
