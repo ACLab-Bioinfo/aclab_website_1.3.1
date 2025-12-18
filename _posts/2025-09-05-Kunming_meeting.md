@@ -2,7 +2,7 @@
 title: Our Lab Students Excel at Advanced Symposium on Human Disease Mechanisms
 last_modified_at: ""
 tags: 
-  - News
+  - Conference
 image: https://github.com/ACLab-Bioinfo/aclabwebsite_figbed/blob/main/News/2025/meeting_all.jpg?raw=true
 ---
 

@@ -2,7 +2,7 @@
 title: Dr.Wang Jing was selected as Oral Presenter at the 1st HKU-CUHK Joint Postdoctoral Biomedical Sciences Symposium
 last_modified_at: ""
 tags: 
-  - News
+  - Conference
 image: https://www.sbs.cuhk.edu.hk/enewsletter/2024vol14no2/_custom/edm-image/JPBSS1.jpg
 ---
 
