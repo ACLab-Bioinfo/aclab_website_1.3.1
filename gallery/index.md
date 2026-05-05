@@ -10,6 +10,12 @@ nav:
 
   {% 
     include figure.html 
+    image="https://github.com/ACLab-Bioinfo/aclabwebsite_figbed/blob/main/Gallery/2026-Xiaoran-Lunch.jpg?raw=true"
+    caption="2026-Farewell lunch for Ye Ran"
+  %}
+
+  {% 
+    include figure.html 
     image="https://github.com/ACLab-Bioinfo/aclabwebsite_figbed/blob/main/Gallery/2025-gathering.JPG?raw=true"
     caption="2025-Have fun in Shenzhen"
   %}
