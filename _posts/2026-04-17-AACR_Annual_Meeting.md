@@ -8,8 +8,6 @@ image: https://github.com/ACLab-Bioinfo/aclabwebsite_figbed/blob/main/News/2026/
 
 From April 17-22, the AACR Annual Meeting was held in San Diego, California. The AACR Annual Meeting is the focal point of the cancer research community, where scientists, clinicians, and advocates gather to share the latest breakthroughs. Our lab members, Prof. Steffi, Dr. HUANG Siyuan, Dr. LIANG Zhixian, Dr. YUE Hui, YIN Baoyi, and Chole attended the meeting and presented their research outcomes. 
 
-The symposium brought together distinguished experts and scholars from prestigious institutions including Kunming Institute of Zoology, The Chinese University of Hong Kong, Peking University, National Tsing Hua University Taiwan, University of Hong Kong, Hong Kong University of Science and Technology, and University of Macau. 
-
 Dr. HUAN Siyuan utilized single-cell multiomics analysis to reveal cell type-specific genetic regulatory programs underlying immunotherapy resistance in hepatocellular carcinoma. 
 
 <p align="center" width="70%">
