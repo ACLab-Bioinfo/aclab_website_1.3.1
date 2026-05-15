@@ -1,6 +1,6 @@
 ---
 name: CHEN Siyun
-image: https://github.com/user-attachments/assets/c8dd175c-e368-4de4-9aba-198a695e3904
+image: https://github.com/ACLab-Bioinfo/aclabwebsite_figbed/blob/main/Member/Chen%20Siyun.jpg
 role: phd
 description: Year 3 PhD Student
 aliases:
