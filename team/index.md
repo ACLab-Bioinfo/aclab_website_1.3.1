@@ -343,6 +343,11 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 </thead>
 <tbody>
 <tr>
+<td markdown="span">2026</td>
+<td markdown="span">YE Ran</td>
+<td markdown="span">PhD student, Department of Oncology, Southern Medical University</td>
+</tr>
+<tr>
 <td markdown="span">2023</td>
 <td markdown="span">ZHONG Chengpeng</td>
 <td markdown="span">Resident doctor, Department of Liver Surgery, Ren Ji Hospital affiliated to Shanghai Jiao Tong University</td>
