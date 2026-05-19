@@ -1,7 +1,7 @@
 ---
-title: Prof.Alfred visted UK and Germany for academic communication
+title: Prof.Alfred visited UK and Germany for academic communication
 last_modified_at: ""
-tags: 
+tags: i
   - Conference
 image: https://github.com/ACLab-Bioinfo/aclabwebsite_figbed/blob/main/News/2026/Oxford5.jpeg?raw=true?raw=true
 ---
