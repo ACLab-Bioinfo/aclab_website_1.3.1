@@ -1,7 +1,8 @@
-- id: doi:10.1136/gutjnl-2024-332281
+
+- id: doi:10.1016/j.ccell.2026.05.005
   type: paper
-  image: https://gut.bmj.com/content/gutjnl/74/4/613/F8.large.jpg?width=800&height=600&carousel=1
-  date: '2025-03-06'
+  image: https://www.cell.com/cms/10.1016/j.ccell.2026.05.005/asset/edf6c548-f042-4819-a60e-bbcebaf75871/main.assets/ga1_lrg.jpg?width=800&height=600&carousel=1
+  date: '2025-06-08'
 
 - id: doi:10.1136/gutjnl-2022-328364
   type: paper
