@@ -7,6 +7,23 @@ nav:
 # {% include icon.html icon="fa-solid fa-image-polaroid" %}Gallery
 
 {% capture content %}
+  {% 
+    include figure.html 
+    image="https://github.com/ACLab-Bioinfo/aclabwebsite_figbed/blob/main/Gallery/2026_pikeqiu.jpg?raw=true"
+    caption="2026-Having fun in Shenzhen"
+  %}
+
+  {% 
+    include figure.html 
+    image="https://github.com/ACLab-Bioinfo/aclabwebsite_figbed/blob/main/Gallery/2026_zhixian.jpg?raw=true"
+    caption="2026-Celebrating Zhixian's paper"
+  %}
+
+  {% 
+    include figure.html 
+    image="https://github.com/ACLab-Bioinfo/aclabwebsite_figbed/blob/main/Gallery/2026_haoran.jpg?raw=true"
+    caption="2026-Farewell for Haoran"
+  %} 
 
   {% 
     include figure.html 
