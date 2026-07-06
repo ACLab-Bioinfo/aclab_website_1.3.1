@@ -5,6 +5,7 @@ nav:
 
 carousels:
 - images: 
+  - image: https://github.com/ACLab-Bioinfo/aclabwebsite_figbed/blob/main/Publication/2026Cancercell.png?raw=true
   - image: https://github.com/ACLab-Bioinfo/aclabwebsite_figbed/blob/main/Publication/2025GUT.png?raw=true
   - image: https://github.com/ACLab-Bioinfo/aclabwebsite_figbed/blob/main/Publication/2023Gut.png?raw=true
   - image: https://user-images.githubusercontent.com/81615397/274208755-36afb6e3-6768-4f7f-851d-7a4376244a06.png
@@ -29,6 +30,8 @@ carousels:
 {% include section.html %}
 
 ## Highlights
+
+{% include citation.html lookup="Tumor cells metabolically resist immune-checkpoint therapy by macrophage efferocytosis-mediated fatty acid recycling" style="rich" %}
 
 {% include citation.html lookup="Pharmacological activation of STAT1-GSDME pyroptotic circuitry reinforces epigenetic immunotherapy for hepatocellular carcinoma" style="rich" %}
 
