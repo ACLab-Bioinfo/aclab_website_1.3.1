@@ -2528,49 +2528,57 @@
   orcid: 0000-0003-2345-6951
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1136/gutjnl-2024-332281
-  title: Pharmacological activation of STAT1-GSDME pyroptotic circuitry reinforces
-    epigenetic immunotherapy for hepatocellular carcinoma
+- id: doi:10.1016/j.ccell.2026.05.005
+  title: Tumor cells metabolically resist immune-checkpoint therapy by macrophage
+    efferocytosis-mediated fatty acid recycling
   authors:
-  - Yalin Tu
-  - Haoran Wu
-  - Chengpeng Zhong
-  - Yan Liu
-  - Zhewen Xiong
-  - Siyun Chen
-  - Jing Wang
-  - Patrick Pak-Chun Wong
-  - Weiqin Yang
   - Zhixian Liang
-  - Jiahuan Lu
-  - Shufen Chen
+  - Xiaohang Long
+  - Zhewen Xiong
+  - Patrick Pak-Chun Wong
+  - Siyuan Huang
+  - Siyun Chen
+  - Yiling Zhang
   - Lingyun Zhang
-  - Yu Feng
-  - Willis Wai-Yiu Si-Tou
+  - Chunning Leung
+  - Jianquan Cao
+  - Haoran Wu
+  - Hui Yue
+  - Zihui Zhao
+  - Yalin Tu
   - Baoyi Yin
+  - Weiqin Yang
+  - Jing Wang
+  - Shufen Chen
+  - Xuerao Zhang
+  - Yuk Wah Tsang
+  - Chengpeng Zhong
+  - Xiaoyu Liu
+  - Lipeng Ding
+  - Jiahuan Lu
+  - Willis Wai-Yiu Si-Tou
+  - Yan Liu
+  - Yaxian Wang
   - Yingnan Lin
   - Jianxin Liang
-  - Liying Liang
-  - Joaquim S L Vong
   - Weida Ren
-  - Tsz Tung Kwong
-  - Howard Leung
-  - Ka Fai To
-  - Stephanie Ma
+  - Joaquim Si-Long Vong
   - Man Tong
-  - Hanyong Sun
-  - Qiang Xia
+  - Xiaoyu Tian
+  - Hannah Xiaoyan Hui
   - Jingying Zhou
-  - David Kerr
-  - Nick La Thangue
-  - Joseph J Y Sung
+  - Saiming Ngai
+  - Shelly Ni
+  - Ka-Fai To
+  - Thomas Braun
+  - Joseph Jao-Yiu Sung
   - Stephen Lam Chan
   - Alfred Sze-Lok Cheng
-  publisher: Gut
-  date: '2025-03-06'
-  link: https://doi.org/g86jsh
+  publisher: Cancer Cell
+  date: '2025-06-08'
+  link: https://doi.org/hb9j63
   type: paper
-  image: https://gut.bmj.com/content/gutjnl/74/4/613/F8.large.jpg?width=800&height=600&carousel=1
+  image: https://www.cell.com/cms/10.1016/j.ccell.2026.05.005/asset/edf6c548-f042-4819-a60e-bbcebaf75871/main.assets/ga1_lrg.jpg?width=800&height=600&carousel=1
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1136/gutjnl-2022-328364
