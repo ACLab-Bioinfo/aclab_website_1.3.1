@@ -10,7 +10,7 @@ nav:
 
   {% 
     include figure.html 
-    image="https://github.com/ACLab-Bioinfo/aclabwebsite_figbed/blob/main/Gallery/2026_Emilie.jpg"
+    image="https://github.com/ACLab-Bioinfo/aclabwebsite_figbed/blob/main/Gallery/2026_Emilie.jpg?raw=true"
     caption="2026-Farewell for Emilie"
   %}
 
