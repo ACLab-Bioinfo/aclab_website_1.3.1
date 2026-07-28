@@ -7,6 +7,13 @@ nav:
 # {% include icon.html icon="fa-solid fa-image-polaroid" %}Gallery
 
 {% capture content %}
+
+  {% 
+    include figure.html 
+    image="https://github.com/ACLab-Bioinfo/aclabwebsite_figbed/blob/main/Gallery/2026_Emilie.jpg"
+    caption="2026-Farewell for Emilie"
+  %}
+
   {% 
     include figure.html 
     image="https://github.com/ACLab-Bioinfo/aclabwebsite_figbed/blob/main/Gallery/2026_pikeqiu.jpg?raw=true"
