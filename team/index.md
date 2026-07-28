@@ -344,6 +344,11 @@ Welcome to our lab and get to know our team! Our laboratory members are from dif
 <tbody>
 <tr>
 <td markdown="span">2026</td>
+<td markdown="span">Emilie Jamali</td>
+<td markdown="span">Master student, University of Clermont-Auvergne (Clermont-Ferrand, France)</td>
+</tr>
+<tr>
+<td markdown="span">2026</td>
 <td markdown="span">YE Ran</td>
 <td markdown="span">PhD student, Department of Oncology, Southern Medical University</td>
 </tr>
