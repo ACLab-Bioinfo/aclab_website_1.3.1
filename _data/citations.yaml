@@ -1104,8 +1104,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/path.4512
-  title: "<scp>CUL4B</scp>: a novel epigenetic driver in Wnt/\u03B2\u2010catenin\u2010\
-    dependent hepatocarcinogenesis"
+  title: "<scp>CUL4B</scp>\n                    : a novel epigenetic driver in Wnt/\u03B2\
+    \u2010catenin\u2010dependent hepatocarcinogenesis"
   authors:
   - Myth T.S. Mok
   - Alfred S.L. Cheng
@@ -1667,8 +1667,9 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/cncr.26189
-  title: Characterization of the gene structure, functional significance, and clinical
-    application of <i>RNF180</i>, a novel gene in gastric cancer
+  title: "Characterization of the gene structure, functional significance, and clinical\
+    \ application of\n                    <i>RNF180</i>\n                    , a novel\
+    \ gene in gastric cancer"
   authors:
   - "Kin\u2010Fai Cheung"
   - Cleo N. Y. Lam
@@ -2997,8 +2998,9 @@
   file: sources.yaml
 - id: doi:10.1002/path.6033
   title: "Cancer\u2010associated fibroblasts potentiate colorectal cancer progression\
-    \ by crosstalk of the <scp>IGF2</scp>\u2013<scp>IGF1R</scp> and <scp>Hippo\u2013\
-    YAP1</scp> signaling pathways"
+    \ by crosstalk of the\n                    <scp>IGF2</scp>\n                 \
+    \   \u2013\n                    <scp>IGF1R</scp>\n                    and\n  \
+    \                  <scp>Hippo\u2013YAP1</scp>\n                    signaling pathways"
   authors:
   - Jinglin Zhang
   - Bonan Chen
